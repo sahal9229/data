@@ -1,0 +1,201 @@
+Student_ID,Student_Name,Gender,Age,City,Course,Department,Enrollment_Date,Learning_Mode,Attendance_Percent,Marks,Fees_Status,Learning_Goal,Status
+STU0015,Amal Joseph,Male,27,Bengaluru,Web Development,Computer Applications,2026-01-01,Offline,76.3,55.8,Paid,Higher Studies,Active
+STU0032,Nikhil Varma,Male,28,Kochi,Web Development,Computer Applications,2026-01-05,Online,93.6,67.9,Paid,Get a Job,Active
+STU0001,Athira Nair,Female,29,Kochi,Data Science,Computer Applications,2026-01-13,Hybrid,74.6,64.6,Paid,Career Change,Active
+STU0108,Rahul Das,Male,27,Malappuram,Cyber Security,Information Technology,2026-01-18,Offline,77.8,60.7,Paid,Higher Studies,Active
+STU0175,Gokul Menon,Male,20,Bengaluru,Cyber Security,Information Technology,2026-01-18,Offline,67.4,88.5,Paid,Career Change,Inactive
+STU0145,Vishnu Kumar,Male,18,Kochi,Cyber Security,Information Technology,2026-01-20,Hybrid,77.9,67.3,Paid,Improve Skills,Active
+STU0198,Sanjay Nair,Male,18,Mumbai,Web Development,Computer Applications,2026-01-21,Hybrid,66.4,85.7,Paid,Career Change,Inactive
+STU0084,Ananya Menon,Female,24,Kozhikode,Web Development,Computer Applications,2026-01-21,Online,90.7,81.0,Paid,Career Change,Active
+STU0138,Ananya Menon,Female,24,Bengaluru,Cyber Security,Information Technology,2026-01-22,Hybrid,65.7,94.6,Paid,Improve Skills,Inactive
+STU0146,Vishnu Kumar,Male,25,Thrissur,Web Development,Computer Applications,2026-01-22,Offline,96.8,79.6,Paid,Career Change,Active
+STU0106,Neha Joseph,Female,27,Malappuram,Data Science,Computer Applications,2026-01-26,Online,91.1,90.8,Paid,Start a Business,Active
+STU0149,Gokul Menon,Male,28,Kochi,Web Development,Computer Applications,2026-01-27,Hybrid,87.7,57.8,Paid,Start a Business,Active
+STU0136,Meera Varma,Female,18,Kannur,Cyber Security,Information Technology,2026-01-29,Offline,72.2,95.6,Paid,Get a Job,Active
+STU0026,Aditya Nair,Male,29,Mumbai,Web Development,Computer Applications,2026-02-01,Hybrid,76.0,57.2,Pending,Career Change,Active
+STU0012,Gokul Menon,Male,24,Malappuram,Cyber Security,Information Technology,2026-02-02,Hybrid,78.4,97.8,Pending,Get a Job,Active
+STU0121,Fahad Thomas,Male,25,Kochi,Data Science,Computer Applications,2026-02-02,Offline,80.7,70.6,Paid,Career Change,Active
+STU0180,Gokul Menon,Male,26,Kannur,Business Analytics,Management,2026-02-03,Hybrid,84.0,93.3,Paid,Higher Studies,Active
+STU0132,Akhil Pillai,Male,20,Kochi,Cyber Security,Information Technology,2026-02-05,Hybrid,90.9,96.8,Paid,Improve Skills,Active
+STU0019,Meera Varma,Female,29,Kozhikode,Data Science,Computer Applications,2026-02-06,Offline,87.1,64.8,Paid,Higher Studies,Active
+STU0081,Haris Khan,Male,28,Thrissur,Cyber Security,Information Technology,2026-02-06,Offline,73.2,66.4,Paid,Higher Studies,Active
+STU0030,Vishnu Kumar,Male,18,Kochi,Business Analytics,Management,2026-02-07,Online,81.0,97.9,Paid,Career Change,Active
+STU0123,Aisha Khan,Female,19,Kannur,Cyber Security,Information Technology,2026-02-07,Offline,76.3,61.4,Paid,Career Change,Active
+STU0023,Vishnu Kumar,Male,25,Kochi,Computer Science,Computer Science,2026-02-08,Online,93.3,91.8,Paid,Career Change,Active
+STU0098,Athira Nair,Female,25,Chennai,Computer Science,Computer Science,2026-02-08,Hybrid,92.4,66.4,Paid,Start a Business,Active
+STU0174,Athira Nair,Female,28,Kannur,Data Science,Computer Applications,2026-02-08,Online,87.3,70.6,Paid,Career Change,Active
+STU0151,Diya Thomas,Female,22,Bengaluru,Web Development,Computer Applications,2026-02-13,Online,84.6,82.7,Paid,Career Change,Active
+STU0016,Akhil Pillai,Male,29,Kannur,Data Science,Computer Applications,2026-02-13,Online,82.0,58.0,Paid,Career Change,Active
+STU0111,Amal Joseph,Male,24,Mumbai,Business Analytics,Management,2026-02-16,Offline,65.5,78.1,Paid,Start a Business,Inactive
+STU0117,Arjun Kumar,Male,28,Kozhikode,Cyber Security,Information Technology,2026-02-16,Online,72.4,82.5,Paid,Higher Studies,Active
+STU0021,Kavya Pillai,Female,28,Mumbai,Data Science,Computer Applications,2026-02-19,Hybrid,80.1,73.2,Paid,Get a Job,Active
+STU0127,Ananya Menon,Female,29,Kozhikode,Cyber Security,Information Technology,2026-02-19,Hybrid,90.9,89.9,Pending,Career Change,Active
+STU0064,Haris Khan,Male,29,Kochi,Computer Science,Computer Science,2026-02-22,Hybrid,92.0,91.6,Paid,Start a Business,Active
+STU0191,Fahad Thomas,Male,23,Mumbai,Web Development,Computer Applications,2026-02-24,Online,73.5,60.3,Paid,Get a Job,Active
+STU0140,Ananya Menon,Female,21,Kochi,Cyber Security,Information Technology,2026-02-24,Offline,80.2,72.2,Pending,Start a Business,Active
+STU0105,Sanjay Nair,Male,21,Malappuram,Cyber Security,Information Technology,2026-02-24,Hybrid,78.3,70.4,Paid,Improve Skills,Active
+STU0039,Neha Joseph,Female,24,Thrissur,Computer Science,Computer Science,2026-02-25,Online,95.5,91.9,Paid,Improve Skills,Active
+STU0163,Vishnu Kumar,Male,25,Thrissur,Data Science,Computer Applications,2026-02-26,Hybrid,85.9,55.7,Paid,Improve Skills,Active
+STU0130,Amal Joseph,Male,22,Kozhikode,Business Analytics,Management,2026-02-28,Hybrid,85.1,89.7,Pending,Start a Business,Active
+STU0110,Rahul Das,Male,25,Thrissur,Business Analytics,Management,2026-02-28,Hybrid,98.7,61.1,Paid,Improve Skills,Active
+STU0178,Sanjay Nair,Male,22,Thrissur,Web Development,Computer Applications,2026-03-02,Hybrid,92.1,85.3,Paid,Improve Skills,Active
+STU0005,Maya Sharma,Female,24,Bengaluru,Cyber Security,Information Technology,2026-03-05,Hybrid,67.8,67.6,Paid,Get a Job,Inactive
+STU0044,Nikhil Varma,Male,29,Chennai,Business Analytics,Management,2026-03-05,Offline,96.5,76.8,Paid,Start a Business,Active
+STU0083,Rahul Das,Male,25,Malappuram,Cyber Security,Information Technology,2026-03-05,Hybrid,89.1,85.1,Paid,Improve Skills,Active
+STU0158,Amal Joseph,Male,22,Mumbai,Data Science,Computer Applications,2026-03-05,Hybrid,67.9,61.9,Paid,Improve Skills,Inactive
+STU0154,Aditya Nair,Male,27,Kannur,Business Analytics,Management,2026-03-09,Hybrid,78.2,62.0,Paid,Improve Skills,Active
+STU0114,Arjun Kumar,Male,24,Chennai,Computer Science,Computer Science,2026-03-11,Hybrid,80.9,83.8,Paid,Higher Studies,Active
+STU0179,Kavya Pillai,Female,19,Mumbai,Data Science,Computer Applications,2026-03-11,Online,80.8,93.6,Paid,Start a Business,Active
+STU0153,Kavya Pillai,Female,20,Kochi,Computer Science,Computer Science,2026-03-12,Hybrid,67.7,91.3,Paid,Career Change,Inactive
+STU0010,Athira Nair,Female,22,Malappuram,Cyber Security,Information Technology,2026-03-15,Hybrid,69.9,87.0,Paid,Career Change,Inactive
+STU0190,Riya Khan,Female,23,Bengaluru,Web Development,Computer Applications,2026-03-15,Offline,95.2,68.7,Paid,Start a Business,Active
+STU0142,Meera Varma,Female,22,Kochi,Data Science,Computer Applications,2026-03-16,Online,71.9,80.9,Pending,Improve Skills,Active
+STU0150,Neha Joseph,Female,23,Bengaluru,Web Development,Computer Applications,2026-03-18,Offline,67.9,83.5,Pending,Improve Skills,Inactive
+STU0054,Ananya Menon,Female,21,Thrissur,Computer Science,Computer Science,2026-03-19,Online,78.4,61.6,Paid,Start a Business,Active
+STU0066,Athira Nair,Female,24,Malappuram,Cyber Security,Information Technology,2026-03-20,Hybrid,71.2,77.4,Paid,Career Change,Active
+STU0176,Aditya Nair,Male,28,Mumbai,Web Development,Computer Applications,2026-03-20,Online,80.7,71.0,Paid,Career Change,Active
+STU0033,Maya Sharma,Female,22,Bengaluru,Web Development,Computer Applications,2026-03-21,Online,74.9,64.1,Paid,Start a Business,Active
+STU0157,Fahad Thomas,Male,21,Malappuram,Cyber Security,Information Technology,2026-03-24,Online,93.0,61.0,Paid,Start a Business,Active
+STU0087,Gokul Menon,Male,23,Chennai,Data Science,Computer Applications,2026-03-24,Hybrid,79.4,76.3,Paid,Get a Job,Active
+STU0035,Athira Nair,Female,29,Kozhikode,Business Analytics,Management,2026-03-24,Online,80.5,85.3,Paid,Higher Studies,Active
+STU0008,Maya Sharma,Female,25,Thrissur,Computer Science,Computer Science,2026-03-25,Hybrid,78.3,97.5,Paid,Get a Job,Active
+STU0173,Nikhil Varma,Male,29,Bengaluru,Cyber Security,Information Technology,2026-03-27,Hybrid,80.5,74.2,Pending,Start a Business,Active
+STU0047,Fahad Thomas,Male,28,Bengaluru,Cyber Security,Information Technology,2026-03-28,Online,68.0,77.2,Paid,Higher Studies,Inactive
+STU0141,Meera Varma,Female,19,Thrissur,Business Analytics,Management,2026-03-28,Offline,82.9,59.9,Paid,Higher Studies,Active
+STU0102,Gokul Menon,Male,20,Thrissur,Computer Science,Computer Science,2026-03-29,Offline,67.8,92.4,Pending,Higher Studies,Inactive
+STU0074,Meera Varma,Female,22,Malappuram,Business Analytics,Management,2026-04-02,Online,65.5,78.0,Pending,Career Change,Inactive
+STU0172,Sneha Menon,Female,26,Bengaluru,Web Development,Computer Applications,2026-04-03,Hybrid,75.3,59.4,Paid,Improve Skills,Active
+STU0184,Rohan Reddy,Male,20,Kozhikode,Computer Science,Computer Science,2026-04-04,Online,80.1,94.2,Paid,Start a Business,Active
+STU0089,Sneha Menon,Female,26,Mumbai,Data Science,Computer Applications,2026-04-07,Online,77.7,87.5,Paid,Career Change,Active
+STU0043,Arjun Kumar,Male,22,Thrissur,Cyber Security,Information Technology,2026-04-08,Offline,66.6,73.8,Paid,Start a Business,Inactive
+STU0073,Haris Khan,Male,21,Malappuram,Computer Science,Computer Science,2026-04-09,Online,90.9,66.9,Paid,Start a Business,Active
+STU0045,Amal Joseph,Male,24,Kannur,Computer Science,Computer Science,2026-04-09,Hybrid,88.3,71.3,Paid,Improve Skills,Active
+STU0049,Vishnu Kumar,Male,29,Thrissur,Cyber Security,Information Technology,2026-04-10,Online,89.4,76.3,Paid,Get a Job,Active
+STU0061,Aarav Sharma,Male,18,Mumbai,Computer Science,Computer Science,2026-04-13,Hybrid,86.7,65.3,Paid,Higher Studies,Active
+STU0029,Riya Khan,Female,28,Chennai,Business Analytics,Management,2026-04-15,Online,90.1,65.3,Paid,Start a Business,Active
+STU0118,Diya Thomas,Female,19,Thrissur,Web Development,Computer Applications,2026-04-16,Online,94.0,78.8,Paid,Higher Studies,Active
+STU0079,Nikhil Varma,Male,28,Kannur,Data Science,Computer Applications,2026-04-17,Online,72.4,83.4,Paid,Get a Job,Active
+STU0020,Neha Joseph,Female,26,Mumbai,Cyber Security,Information Technology,2026-04-20,Online,69.6,95.2,Paid,Improve Skills,Inactive
+STU0125,Athira Nair,Female,24,Bengaluru,Web Development,Computer Applications,2026-04-21,Offline,80.8,64.8,Paid,Get a Job,Active
+STU0050,Arjun Kumar,Male,20,Mumbai,Cyber Security,Information Technology,2026-04-23,Online,93.1,84.9,Paid,Get a Job,Active
+STU0011,Sanjay Nair,Male,20,Kozhikode,Business Analytics,Management,2026-04-23,Online,82.8,58.9,Paid,Higher Studies,Active
+STU0181,Rohan Reddy,Male,19,Thrissur,Web Development,Computer Applications,2026-04-25,Offline,99.5,89.1,Paid,Career Change,Active
+STU0160,Ananya Menon,Female,18,Bengaluru,Business Analytics,Management,2026-04-25,Online,76.2,59.3,Paid,Start a Business,Active
+STU0048,Gokul Menon,Male,21,Mumbai,Business Analytics,Management,2026-04-26,Hybrid,70.2,57.0,Paid,Get a Job,Active
+STU0100,Meera Varma,Female,29,Kochi,Business Analytics,Management,2026-04-27,Offline,68.2,97.1,Paid,Start a Business,Inactive
+STU0040,Rohan Reddy,Male,21,Bengaluru,Business Analytics,Management,2026-04-27,Offline,65.8,63.3,Pending,Start a Business,Inactive
+STU0024,Aarav Sharma,Male,20,Chennai,Data Science,Computer Applications,2026-05-02,Online,79.2,75.7,Paid,Get a Job,Active
+STU0053,Fahad Thomas,Male,22,Thrissur,Cyber Security,Information Technology,2026-05-03,Offline,80.4,85.7,Paid,Career Change,Active
+STU0028,Arjun Kumar,Male,27,Chennai,Web Development,Computer Applications,2026-05-07,Hybrid,85.8,81.6,Paid,Career Change,Active
+STU0037,Rohan Reddy,Male,28,Chennai,Computer Science,Computer Science,2026-05-08,Hybrid,68.6,88.5,Paid,Higher Studies,Inactive
+STU0034,Fahad Thomas,Male,18,Malappuram,Cyber Security,Information Technology,2026-05-09,Online,68.2,73.2,Paid,Higher Studies,Inactive
+STU0107,Meera Varma,Female,28,Kannur,Computer Science,Computer Science,2026-05-09,Hybrid,91.4,88.0,Paid,Get a Job,Active
+STU0103,Meera Varma,Female,25,Mumbai,Cyber Security,Information Technology,2026-05-11,Offline,73.9,55.4,Paid,Higher Studies,Active
+STU0195,Sneha Menon,Female,29,Kozhikode,Computer Science,Computer Science,2026-05-16,Offline,77.8,72.3,Paid,Career Change,Active
+STU0042,Ishaan Patel,Male,18,Bengaluru,Web Development,Computer Applications,2026-05-16,Offline,68.8,73.7,Paid,Career Change,Inactive
+STU0082,Athira Nair,Female,20,Malappuram,Computer Science,Computer Science,2026-05-17,Hybrid,67.5,62.1,Paid,Career Change,Inactive
+STU0013,Gokul Menon,Male,28,Kannur,Data Science,Computer Applications,2026-05-17,Offline,76.9,67.6,Paid,Start a Business,Active
+STU0085,Akhil Pillai,Male,27,Mumbai,Data Science,Computer Applications,2026-05-18,Hybrid,66.4,87.5,Paid,Start a Business,Inactive
+STU0170,Athira Nair,Female,19,Chennai,Business Analytics,Management,2026-05-20,Hybrid,93.0,73.8,Paid,Improve Skills,Active
+STU0134,Aditya Nair,Male,25,Mumbai,Data Science,Computer Applications,2026-05-20,Offline,88.2,75.9,Paid,Career Change,Active
+STU0131,Aarav Sharma,Male,29,Bengaluru,Computer Science,Computer Science,2026-05-20,Online,91.7,94.6,Paid,Higher Studies,Active
+STU0069,Riya Khan,Female,26,Kochi,Business Analytics,Management,2026-05-22,Online,65.4,95.8,Paid,Improve Skills,Inactive
+STU0119,Nikhil Varma,Male,20,Kannur,Data Science,Computer Applications,2026-05-22,Online,99.6,78.2,Paid,Get a Job,Active
+STU0094,Neha Joseph,Female,29,Mumbai,Data Science,Computer Applications,2026-05-25,Online,75.4,80.2,Paid,Improve Skills,Active
+STU0196,Kavya Pillai,Female,19,Malappuram,Business Analytics,Management,2026-05-28,Hybrid,78.5,74.4,Paid,Get a Job,Active
+STU0006,Aditya Nair,Male,19,Chennai,Computer Science,Computer Science,2026-05-29,Offline,94.9,92.3,Paid,Start a Business,Active
+STU0139,Haris Khan,Male,19,Kannur,Cyber Security,Information Technology,2026-05-29,Hybrid,79.2,96.5,Paid,Start a Business,Active
+STU0189,Meera Varma,Female,25,Mumbai,Cyber Security,Information Technology,2026-06-02,Offline,67.6,57.6,Paid,Higher Studies,Inactive
+STU0200,Amal Joseph,Male,25,Kochi,Cyber Security,Information Technology,2026-06-03,Offline,93.6,70.8,Paid,Get a Job,Active
+STU0113,Athira Nair,Female,28,Kozhikode,Cyber Security,Information Technology,2026-06-04,Offline,79.3,61.0,Pending,Get a Job,Active
+STU0122,Aditya Nair,Male,25,Mumbai,Web Development,Computer Applications,2026-06-04,Offline,87.5,56.3,Paid,Get a Job,Active
+STU0046,Amal Joseph,Male,22,Bengaluru,Data Science,Computer Applications,2026-06-05,Offline,72.4,88.8,Paid,Higher Studies,Active
+STU0077,Diya Thomas,Female,19,Chennai,Computer Science,Computer Science,2026-06-05,Hybrid,99.8,60.1,Paid,Career Change,Active
+STU0186,Neha Joseph,Female,27,Kannur,Computer Science,Computer Science,2026-06-05,Hybrid,83.7,76.6,Pending,Higher Studies,Active
+STU0071,Haris Khan,Male,28,Bengaluru,Computer Science,Computer Science,2026-06-06,Offline,85.4,75.4,Pending,Career Change,Active
+STU0063,Akhil Pillai,Male,27,Chennai,Data Science,Computer Applications,2026-06-09,Hybrid,88.7,96.2,Paid,Career Change,Active
+STU0177,Rohan Reddy,Male,28,Kozhikode,Cyber Security,Information Technology,2026-06-10,Hybrid,74.8,96.3,Paid,Career Change,Active
+STU0126,Riya Khan,Female,28,Mumbai,Cyber Security,Information Technology,2026-06-10,Online,73.9,96.0,Paid,Get a Job,Active
+STU0009,Meera Varma,Female,24,Bengaluru,Data Science,Computer Applications,2026-06-11,Online,74.4,64.1,Paid,Improve Skills,Active
+STU0088,Riya Khan,Female,19,Kozhikode,Business Analytics,Management,2026-06-15,Hybrid,99.0,72.4,Pending,Improve Skills,Active
+STU0185,Ishaan Patel,Male,29,Malappuram,Computer Science,Computer Science,2026-06-15,Online,72.9,95.7,Paid,Career Change,Active
+STU0101,Aarav Sharma,Male,18,Kannur,Data Science,Computer Applications,2026-06-16,Online,75.3,71.1,Paid,Career Change,Active
+STU0199,Fahad Thomas,Male,27,Malappuram,Computer Science,Computer Science,2026-06-17,Hybrid,76.1,71.9,Paid,Career Change,Active
+STU0097,Fahad Thomas,Male,19,Mumbai,Web Development,Computer Applications,2026-06-19,Online,95.6,73.9,Paid,Improve Skills,Active
+STU0187,Ishaan Patel,Male,27,Kochi,Web Development,Computer Applications,2026-06-22,Online,66.4,92.1,Pending,Career Change,Inactive
+STU0004,Diya Thomas,Female,19,Bengaluru,Computer Science,Computer Science,2026-06-22,Hybrid,68.2,59.2,Paid,Get a Job,Inactive
+STU0022,Aditya Nair,Male,19,Mumbai,Cyber Security,Information Technology,2026-06-23,Online,73.7,63.2,Paid,Start a Business,Active
+STU0133,Sneha Menon,Female,20,Kochi,Cyber Security,Information Technology,2026-06-24,Online,78.0,86.0,Paid,Career Change,Active
+STU0104,Ananya Menon,Female,27,Malappuram,Cyber Security,Information Technology,2026-06-26,Offline,75.5,96.4,Paid,Higher Studies,Active
+STU0031,Neha Joseph,Female,19,Kannur,Computer Science,Computer Science,2026-06-28,Offline,95.8,70.9,Paid,Start a Business,Active
+STU0167,Diya Thomas,Female,26,Mumbai,Data Science,Computer Applications,2026-06-30,Hybrid,76.8,82.6,Paid,Higher Studies,Active
+STU0129,Nikhil Varma,Male,19,Mumbai,Business Analytics,Management,2026-06-30,Online,85.2,64.1,Paid,Start a Business,Active
+STU0164,Aarav Sharma,Male,21,Kochi,Web Development,Computer Applications,2026-06-30,Hybrid,85.0,63.1,Pending,Get a Job,Active
+STU0194,Kavya Pillai,Female,18,Mumbai,Web Development,Computer Applications,2026-06-30,Offline,66.8,76.3,Paid,Get a Job,Inactive
+STU0007,Ishaan Patel,Male,21,Kochi,Business Analytics,Management,2026-07-01,Hybrid,88.5,85.2,Paid,Career Change,Active
+STU0166,Neha Joseph,Female,19,Kochi,Data Science,Computer Applications,2026-07-02,Hybrid,77.1,86.5,Paid,Start a Business,Active
+STU0120,Diya Thomas,Female,21,Malappuram,Data Science,Computer Applications,2026-07-03,Online,85.6,55.7,Paid,Improve Skills,Active
+STU0116,Vishnu Kumar,Male,19,Bengaluru,Computer Science,Computer Science,2026-07-05,Online,99.3,70.8,Paid,Higher Studies,Active
+STU0109,Kavya Pillai,Female,26,Kannur,Computer Science,Computer Science,2026-07-07,Offline,82.6,66.7,Pending,Improve Skills,Active
+STU0156,Aisha Khan,Female,28,Mumbai,Computer Science,Computer Science,2026-07-08,Offline,98.1,97.3,Paid,Career Change,Active
+STU0062,Vishnu Kumar,Male,20,Kochi,Business Analytics,Management,2026-07-08,Online,86.2,96.4,Pending,Get a Job,Active
+STU0036,Amal Joseph,Male,27,Kozhikode,Data Science,Computer Applications,2026-07-09,Offline,84.3,73.5,Paid,Get a Job,Active
+STU0065,Amal Joseph,Male,19,Chennai,Cyber Security,Information Technology,2026-07-09,Offline,82.7,69.7,Paid,Start a Business,Active
+STU0112,Akhil Pillai,Male,19,Bengaluru,Cyber Security,Information Technology,2026-07-10,Hybrid,88.6,75.3,Paid,Get a Job,Active
+STU0095,Rohan Reddy,Male,25,Thrissur,Business Analytics,Management,2026-07-13,Hybrid,97.6,92.4,Paid,Improve Skills,Active
+STU0099,Gokul Menon,Male,23,Mumbai,Web Development,Computer Applications,2026-07-14,Hybrid,86.9,93.2,Paid,Get a Job,Active
+STU0078,Meera Varma,Female,25,Chennai,Web Development,Computer Applications,2026-07-14,Offline,96.8,67.8,Paid,Get a Job,Active
+STU0068,Meera Varma,Female,23,Kannur,Cyber Security,Information Technology,2026-07-14,Offline,66.0,91.6,Paid,Start a Business,Inactive
+STU0059,Aditya Nair,Male,23,Chennai,Business Analytics,Management,2026-07-14,Offline,72.4,69.1,Paid,Improve Skills,Active
+STU0124,Amal Joseph,Male,27,Chennai,Business Analytics,Management,2026-07-15,Online,83.6,74.5,Paid,Get a Job,Active
+STU0056,Rohan Reddy,Male,24,Thrissur,Business Analytics,Management,2026-07-19,Offline,83.8,86.6,Paid,Improve Skills,Active
+STU0057,Aisha Khan,Female,23,Kannur,Data Science,Computer Applications,2026-07-19,Offline,88.4,89.3,Pending,Career Change,Active
+STU0058,Amal Joseph,Male,27,Chennai,Data Science,Computer Applications,2026-07-21,Online,84.8,56.2,Pending,Higher Studies,Active
+STU0197,Diya Thomas,Female,23,Bengaluru,Data Science,Computer Applications,2026-07-21,Online,92.8,69.6,Paid,Career Change,Active
+STU0041,Rohan Reddy,Male,28,Kozhikode,Web Development,Computer Applications,2026-07-24,Online,99.3,78.1,Pending,Start a Business,Active
+STU0091,Aarav Sharma,Male,19,Kochi,Web Development,Computer Applications,2026-07-28,Offline,72.9,91.2,Pending,Higher Studies,Active
+STU0080,Ishaan Patel,Male,25,Kozhikode,Data Science,Computer Applications,2026-07-29,Online,89.1,75.2,Paid,Start a Business,Active
+STU0183,Fahad Thomas,Male,27,Kochi,Cyber Security,Information Technology,2026-07-29,Offline,67.6,96.8,Paid,Career Change,Inactive
+STU0128,Riya Khan,Female,23,Chennai,Data Science,Computer Applications,2026-07-30,Hybrid,95.6,95.5,Paid,Start a Business,Active
+STU0038,Ishaan Patel,Male,18,Chennai,Computer Science,Computer Science,2026-07-31,Hybrid,71.3,94.8,Pending,Higher Studies,Active
+STU0055,Amal Joseph,Male,18,Kozhikode,Cyber Security,Information Technology,2026-08-01,Hybrid,72.2,73.1,Paid,Get a Job,Active
+STU0188,Neha Joseph,Female,27,Malappuram,Computer Science,Computer Science,2026-08-02,Hybrid,87.4,76.4,Pending,Improve Skills,Active
+STU0192,Rahul Das,Male,21,Bengaluru,Cyber Security,Information Technology,2026-08-03,Hybrid,98.7,93.8,Paid,Higher Studies,Active
+STU0017,Ishaan Patel,Male,21,Thrissur,Business Analytics,Management,2026-08-05,Hybrid,97.5,87.5,Paid,Start a Business,Active
+STU0162,Amal Joseph,Male,19,Kochi,Web Development,Computer Applications,2026-08-05,Online,92.2,65.2,Paid,Career Change,Active
+STU0002,Ananya Menon,Female,18,Kozhikode,Web Development,Computer Applications,2026-08-05,Hybrid,66.0,64.4,Paid,Career Change,Inactive
+STU0137,Aarav Sharma,Male,20,Thrissur,Cyber Security,Information Technology,2026-08-09,Hybrid,69.5,77.9,Paid,Start a Business,Inactive
+STU0135,Arjun Kumar,Male,19,Mumbai,Business Analytics,Management,2026-08-09,Hybrid,74.9,84.2,Paid,Get a Job,Active
+STU0067,Aisha Khan,Female,29,Thrissur,Cyber Security,Information Technology,2026-08-12,Online,85.7,68.9,Paid,Improve Skills,Active
+STU0086,Ishaan Patel,Male,28,Mumbai,Web Development,Computer Applications,2026-08-12,Offline,93.5,96.7,Paid,Start a Business,Active
+STU0148,Meera Varma,Female,26,Bengaluru,Cyber Security,Information Technology,2026-08-13,Offline,83.3,61.8,Paid,Start a Business,Active
+STU0090,Diya Thomas,Female,29,Thrissur,Business Analytics,Management,2026-08-13,Hybrid,82.0,56.2,Paid,Career Change,Active
+STU0144,Ananya Menon,Female,28,Kozhikode,Cyber Security,Information Technology,2026-08-15,Offline,75.6,66.8,Paid,Start a Business,Active
+STU0155,Rohan Reddy,Male,27,Mumbai,Computer Science,Computer Science,2026-08-16,Online,75.0,87.2,Paid,Start a Business,Active
+STU0052,Sneha Menon,Female,20,Malappuram,Web Development,Computer Applications,2026-08-17,Online,91.0,75.4,Paid,Start a Business,Active
+STU0143,Vishnu Kumar,Male,28,Bengaluru,Web Development,Computer Applications,2026-08-18,Hybrid,97.3,79.3,Paid,Improve Skills,Active
+STU0003,Sneha Menon,Female,27,Kannur,Computer Science,Computer Science,2026-08-18,Hybrid,74.7,92.4,Paid,Start a Business,Active
+STU0159,Ananya Menon,Female,23,Chennai,Computer Science,Computer Science,2026-08-19,Hybrid,97.6,72.8,Paid,Improve Skills,Active
+STU0147,Diya Thomas,Female,19,Kochi,Data Science,Computer Applications,2026-08-19,Hybrid,93.4,91.0,Paid,Get a Job,Active
+STU0018,Vishnu Kumar,Male,19,Kozhikode,Web Development,Computer Applications,2026-08-20,Hybrid,73.7,57.8,Paid,Career Change,Active
+STU0025,Sanjay Nair,Male,22,Mumbai,Business Analytics,Management,2026-08-21,Online,79.8,96.2,Paid,Higher Studies,Active
+STU0072,Riya Khan,Female,22,Thrissur,Business Analytics,Management,2026-08-21,Offline,75.7,64.9,Paid,Career Change,Active
+STU0168,Diya Thomas,Female,18,Thrissur,Data Science,Computer Applications,2026-08-23,Online,75.3,56.9,Paid,Start a Business,Active
+STU0051,Vishnu Kumar,Male,28,Bengaluru,Computer Science,Computer Science,2026-08-26,Offline,83.6,79.0,Paid,Career Change,Active
+STU0193,Ishaan Patel,Male,25,Kochi,Cyber Security,Information Technology,2026-08-28,Offline,95.8,76.4,Paid,Higher Studies,Active
+STU0182,Akhil Pillai,Male,26,Kochi,Business Analytics,Management,2026-08-28,Offline,69.5,93.0,Paid,Improve Skills,Inactive
+STU0161,Aisha Khan,Female,25,Kozhikode,Computer Science,Computer Science,2026-08-29,Offline,86.5,94.0,Paid,Higher Studies,Active
+STU0060,Neha Joseph,Female,18,Bengaluru,Data Science,Computer Applications,2026-08-29,Online,91.2,57.2,Paid,Get a Job,Active
+STU0096,Aditya Nair,Male,29,Kannur,Business Analytics,Management,2026-08-31,Offline,97.0,71.4,Pending,Higher Studies,Active
+STU0169,Fahad Thomas,Male,22,Malappuram,Cyber Security,Information Technology,2026-08-31,Offline,66.3,82.8,Pending,Get a Job,Inactive
+STU0070,Amal Joseph,Male,28,Kozhikode,Computer Science,Computer Science,2026-09-01,Online,89.9,74.3,Paid,Improve Skills,Active
+STU0076,Aditya Nair,Male,19,Kochi,Business Analytics,Management,2026-09-02,Hybrid,93.8,72.2,Paid,Get a Job,Active
+STU0115,Sneha Menon,Female,27,Kozhikode,Data Science,Computer Applications,2026-09-08,Hybrid,79.3,95.9,Paid,Improve Skills,Active
+STU0075,Rahul Das,Male,19,Mumbai,Computer Science,Computer Science,2026-09-09,Offline,95.5,79.7,Paid,Higher Studies,Active
+STU0171,Riya Khan,Female,29,Malappuram,Computer Science,Computer Science,2026-09-12,Online,82.4,94.7,Paid,Get a Job,Active
+STU0165,Fahad Thomas,Male,26,Mumbai,Web Development,Computer Applications,2026-09-17,Online,84.4,71.8,Paid,Start a Business,Active
+STU0014,Fahad Thomas,Male,19,Thrissur,Computer Science,Computer Science,2026-09-17,Online,95.5,67.8,Paid,Higher Studies,Active
+STU0093,Sanjay Nair,Male,29,Malappuram,Computer Science,Computer Science,2026-09-18,Offline,95.8,92.2,Paid,Career Change,Active
+STU0092,Aisha Khan,Female,29,Mumbai,Business Analytics,Management,2026-09-18,Online,74.6,90.9,Paid,Higher Studies,Active
+STU0152,Ananya Menon,Female,23,Thrissur,Cyber Security,Information Technology,2026-09-18,Offline,65.6,68.3,Pending,Improve Skills,Inactive
+STU0027,Ishaan Patel,Male,19,Kochi,Data Science,Computer Applications,2026-09-18,Hybrid,94.8,57.9,Pending,Improve Skills,Active
