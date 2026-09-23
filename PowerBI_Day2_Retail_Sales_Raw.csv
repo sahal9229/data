@@ -1,0 +1,506 @@
+Order_ID,Order_Date,Customer_Name,Segment,Region,State,City,Category,Sub_Category,Product_Name,Quantity,Sales,Discount,Profit,Ship_Mode,Payment_Mode
+ORD-0001,2026-07-07,Nikhil Das,Corporate,South,Kerala,Kochi,Office Supplies,Paper,Paper Basic,1,5586.18,0.2,263.74,Same Day,Card
+ORD-0002,2026-04-12,Riya Khan,Corporate,South,Kerala,Kochi,Office Supplies,Paper,Paper Pro,2,3325.57,0.3,-239.03,Same Day,Cash
+ORD-0003,2026-05-28,Rohan Sharma,Home Office,South,Kerala,Kochi,Furniture,Desks,Desks Pro,6,819.27,0.3,56.06,Express,Bank Transfer
+ORD-0004,2026-08-10,Nikhil Pillai,Home Office,South,Kerala,Kochi,Office Supplies,Stationery,Stationery Pro,7,5482.11,0.2,761.56,Same Day,Bank Transfer
+ORD-0005,2026-05-14,Diya Das,Corporate,South,Telangana,Hyderabad,Furniture,Chairs,Chairs Pro,3,1579.36,0.0,421.03,Express,UPI
+ORD-0006,2026-03-20,Nikhil Pillai,Corporate,South,Kerala,Kochi,Furniture,Bookcases,Bookcases Basic,5,3066.93,0.2,-16.1,Express,Card
+ORD-0007,2026-03-08,Nikhil Varma,Home Office,South,Kerala,Kozhikode,Technology,Accessories,Accessories Pro,7,5816.97,0.1,1260.79,Same Day,Card
+ORD-0008,2026-07-20,Riya Varma,Consumer,South,Tamil Nadu,Chennai, Furniture ,Stationery,Stationery Pro,8,1653.59,0.15,191.25,Standard,Cash
+ORD-0009,2026-01-04,Arjun Sharma,Corporate,North,Delhi,New Delhi,Office Supplies,Paper,Paper Premium,2,1338.65,0.05,86.05,Same Day,UPI
+ORD-0010,2026-04-02,Ishaan Sharma,Corporate,South,Karnataka,Bengaluru,Office supply,Laptops,Laptops Premium,8,3408.16,0.3,299.09,Same Day,UPI
+ORD-0011,2026-02-10,Ishaan Das,Corporate,South,Telangana,Hyderabad,Technology,Accessories,Accessories Premium,7,2686.91,0.0,189.16,Express,UPI
+ORD-0012,2026-01-14,Vishnu Khan,Consumer,South,Telangana,Hyderabad,Technology,Accessories,Accessories Basic,8,64.87,0.15,12.14,Express,Cash
+ORD-0013,2026-02-13,Ishaan Das,Home Office,North,Delhi,New Delhi,Office Supplies,Paper,Paper Basic,7,3662.89,0.2,266.29,Same Day,Cash
+ORD-0014,2026-02-20,Kavya Sharma,Home Office,North,Delhi,New Delhi,Furniture,Tables,Tables Premium,1,"₹1,234.16",0.2,-7.78,Express,UPI
+ORD-0015,2026-02-05,Kavya Menon,Corporate,North,Delhi,New Delhi,Furniture,Chairs,Chairs Pro,7,534.57,0.2,91.98,Same Day,Bank Transfer
+ORD-0016,2026-07-19,Fahad Thomas,Corporate,South,Kerala,Kochi,Office Supplies,Storage,Storage Basic,6,554.2,0.1,28.82,Same Day,Bank Transfer
+ORD-0017,2026-01-24,Amal Khan,Corporate,North,Delhi,New Delhi,Technology,Printers,Printers Premium,3,2952.86,0.05,-282.69,Standard,Cash
+ORD-0018,2026-07-07,Meera Das,Corporate,South,Kerala,Thrissur,Office Supplies,Binders,Binders Premium,5,582.65,0.2,70.18,Same Day,UPI
+ORD-0019,2026-07-14,Vishnu Menon,Home Office,South,Kerala,Kochi,technology,Paper,Paper Premium,2,2580.87,0.0,429.55,Same Day,Cash
+ORD-0020,2026-01-17,Aarav Pillai,Corporate,South,Tamil Nadu,Chennai,Furniture,Chairs,Chairs Pro,1,1656.67,0.05,-5.95,Standard,Card
+ORD-0021,2026-06-05,Ananya Pillai,Corporate,South,Karnataka,Bengaluru,Technology,Printers,Printers Premium,4,769.55,0.1,127.52,Same Day,Bank Transfer
+ORD-0022,2026-07-29,Vishnu Sharma,Home Office,West,Gujarat,Ahmedabad,Furniture,Chairs,Chairs Premium,7,3120.44,0.15,-85.57,Standard,Cash
+ORD-0023,2026-01-06,Sneha Kumar,Home Office,West,Maharashtra,Mumbai,Office Supplies,Paper,Paper Basic,2,1969.16,0.1,188.68,Standard,Card
+ORD-0024,2026-02-02,Vishnu Pillai,Corporate,South,Kerala,Kochi,Technology,Monitors,Monitors Pro,4,2399.37,0.0,174.96,Express,UPI
+ORD-0025,2026-02-28,Aarav Sharma,Corporate,South,Kerala,Thrissur,Technology,Laptops,Laptops Premium,8,4215.23,0.1,708.91,Express,Cash
+ORD-0026,2026-07-30,Riya Khan,Home Office,West,Maharashtra,Mumbai,Technology,Laptops,Laptops Premium,6,758.81,0.3,96.22,Standard,Card
+ORD-0027,2026-04-13,Vishnu Kumar,Home Office,South,Karnataka,Bengaluru,Office Supplies,Paper,Paper Pro,6,2621.31,0.3,370.07,Standard,Cash
+ORD-0028,2026-02-18,Kavya Pillai,Consumer,West,Maharashtra,Mumbai,Office Supplies,Stationery,Stationery Pro,1,4023.52,0.3,96.6,Express,Bank Transfer
+ORD-0029,2026-02-05,Diya Sharma,Home Office,South,Kerala,Kozhikode,Furniture,Tables,Tables Basic,5,564.61,0.2,63.89,Same Day,
+ORD-0030,2026-04-10,Sneha Joseph,Corporate,West,Gujarat,Ahmedabad,Office Supplies,Binders,Binders Pro,1,1738.68,0.0,-50.28,Same Day,UPI
+ORD-0031,2026-02-18,Aarav Das,Home Office,South,Kerala,Thrissur,Office Supplies,Storage,Storage Pro,7,2977.35,0.05,752.35,Express,UPI
+ORD-0032,2026-01-30,Aarav Khan,Consumer,South,Telangana,Hyderabad, Furniture ,Monitors,Monitors Pro,5,890.73,0.05,-77.73,Standard,UPI
+ORD-0033,2026-07-06,Arjun Pillai,Corporate,South,Karnataka,Bengaluru,Technology,Laptops,Laptops Premium,5,7094.63,0.0,1664.63,Same Day,Card
+ORD-0034,2026-04-27,Vishnu Nair,Consumer,West,Maharashtra,Mumbai,Office Supplies,Stationery,Stationery Basic,8,505.7,0.1,66.28,Express,Cash
+ORD-0035,2026-07-05,Nikhil Pillai,Corporate,South,Karnataka,Bengaluru,Technology,Printers,Printers Basic,4,2404.11,0.1,508.61,Express,UPI
+ORD-0036,2026-07-10,Ishaan Pillai,Corporate,West,Maharashtra,Mumbai,Office Supplies,Stationery,Stationery Pro,2,5262.79,0.05,-220.64,Express,Cash
+ORD-0037,2026-02-06,Diya Thomas,Corporate,North,Delhi,New Delhi,Office Supplies,Binders,Binders Premium,8,2498.51,0.05,54.81,Same Day,Bank Transfer
+ORD-0038,2026-08-25,Nikhil Joseph,Home Office,West,Gujarat,Ahmedabad,Technology,Printers,Printers Basic,7,3679.34,0.0,605.26,Express,Cash
+ORD-0039,2026-06-14,Fahad Varma,Corporate,South,Kerala,Kozhikode,Office Supplies,Binders,Binders Pro,1,146.27,0.05,3.33,Standard,UPI
+ORD-0040,2026-06-09,Vishnu Nair,Home Office,South,Kerala,Kochi,Furniture,Desks,Desks Premium,4,1229.68,0.15,65.02,Same Day,Card
+ORD-0041,2026-02-13,Rohan Nair,Home Office,South,Kerala,Kochi,Technology,Printers,Printers Pro,3,7005.08,0.05,845.44,Standard,Card
+ORD-0042,2026-03-29,Sneha Khan,Corporate,South,Tamil Nadu,Chennai,Office Supplies,Paper,Paper Premium,8,732.11,0.15,76.39,Express,Bank Transfer
+ORD-0043,2026-04-04,Riya Varma,Consumer,West,Maharashtra,Mumbai,Office Supplies,Paper,Paper Pro,5,1759.1,0.0,163.67,Same Day,Bank Transfer
+ORD-0044,2026-06-19,Rohan Varma,Home Office,South,Tamil Nadu,Chennai,Technology,Laptops,Laptops Basic,6,1474.29,0.3,110.49,Express,Cash
+ORD-0045,2026-08-12,Aisha Nair,Home Office,West,Maharashtra,Mumbai,Office Supplies,Binders,Binders Basic,1,266.1,0.1,61.74,Express,UPI
+ORD-0046,2026-05-24,Sneha Khan,Home Office,South,Karnataka,Bengaluru,Office Supplies,Binders,Binders Pro,4,2360.2,0.3,-21.5,Standard,UPI
+ORD-0047,2026-08-29,Kavya Menon,Corporate,South,Kerala,Thrissur,Technology,Laptops,Laptops Premium,6,725.63,0.1,122.79,Standard,Bank Transfer
+ORD-0048,2026-05-06,Aarav Thomas,Consumer,South,Kerala,Thrissur,Technology,Laptops,Laptops Premium,6,2043.59,0.15,200.97,Same Day,Card
+ORD-0049,2026-01-11,Nikhil Sharma,Consumer,North,Delhi,New Delhi,technology,Bookcases,Bookcases Basic,6,938.49,0.05,150.0,Same Day,Cash
+ORD-0050,2026-02-21,Kavya Kumar,Consumer,West,Maharashtra,Mumbai,Technology,Monitors,Monitors Premium,8,925.74,0.15,98.43,Standard,Cash
+ORD-0051,2026-03-21,Amal Joseph,Home Office,South,Kerala,Thrissur,Furniture,Bookcases,Bookcases Pro,2,5236.61,0.1,726.92,Standard,UPI
+ORD-0052,2026-06-14,Fahad Kumar,Corporate,South,Kerala,Kochi,Technology,Printers,Printers Basic,3,1947.09,0.0,-35.12,Same Day,Cash
+ORD-0053,2026-03-11,Vishnu Varma,Consumer,South,Tamil Nadu,Chennai,Furniture,Desks,Desks Basic,3,2964.04,0.2,46.46,Same Day,UPI
+ORD-0054,2026-03-25,Riya Nair,Corporate,West,Maharashtra,Mumbai,Office Supplies,Stationery,Stationery Pro,6,555.52,0.3,31.22,Same Day,Card
+ORD-0055,2026-04-26,Diya Pillai,Home Office,South,Tamil Nadu,Chennai,Office Supplies,Paper,Paper Premium,8,90.88,0.0,9.99,Same Day,Bank Transfer
+ORD-0056,2026-01-24,Kavya Joseph,Corporate,South,Telangana,Hyderabad, Furniture ,Monitors,Monitors Basic,1,2431.18,0.0,-102.46,Same Day,Card
+ORD-0057,2026-07-03,Amal Kumar,Corporate,South,Telangana,Hyderabad,Technology,Printers,Printers Basic,6,3255.84,0.15,-147.74,Express,Card
+ORD-0058,2026-04-08,Nikhil Joseph,Consumer,North,Delhi,New Delhi,Technology,Monitors,Monitors Pro,4,811.8,0.2,17.43,Express,Card
+ORD-0059,2026-10-08,Aarav Khan,Home Office,South,Telangana,Hyderabad,Office Supplies,Binders,Binders Premium,3,1675.87,0.1,270.01,Same Day,Card
+ORD-0060,2026-07-25,Diya Pillai,Corporate,West,Maharashtra,Mumbai,Technology,Laptops,Laptops Basic,4,4064.81,0.15,643.42,Standard,Card
+ORD-0061,2026-08-22,Ananya Kumar,Home Office,South,Tamil Nadu,Chennai,Technology,Printers,Printers Premium,2,1645.42,0.1,-89.93,Express,Card
+ORD-0062,2026-05-04,Ananya Thomas,Consumer,West,Maharashtra,Mumbai,Furniture,Bookcases,Bookcases Basic,2,759.99,0.05,103.86,Express,UPI
+ORD-0063,2026-07-06,Kavya Joseph,Home Office,South,Kerala,Kozhikode,Office Supplies,Paper,Paper Premium,4,2174.08,0.0,519.21,Express,Card
+ORD-0064,2026-01-04,Fahad Pillai,Home Office,South,Telangana,Hyderabad,Office Supplies,Binders,Binders Basic,8,3938.79,0.0,28.45,Same Day,UPI
+ORD-0065,2026-06-15,Kavya Varma,Consumer,South,Kerala,Thrissur,Technology,Monitors,Monitors Basic,6,3072.44,0.15,-98.58,Standard,UPI
+ORD-0066,2026-02-14,Nikhil Joseph,Consumer,South,Telangana,Hyderabad,Technology,Accessories,Accessories Basic,1,2358.31,0.3,241.97,Express,Card
+ORD-0067,2026-01-22,Aarav Thomas,Consumer,North,Delhi,New Delhi,Furniture,Bookcases,Bookcases Basic,7,3662.01,0.2,693.35,Standard,Cash
+ORD-0068,2026-04-28,Diya Kumar,Home Office,South,Kerala,Thrissur,Office Supplies,Paper,Paper Pro,3,5254.48,0.3,-640.06,Same Day,Bank Transfer
+ORD-0069,2026-03-06,Aarav Varma,Home Office,South,Kerala,Kochi,Technology,Monitors,Monitors Pro,3,117.5,0.05,5.79,Express,Card
+ORD-0070,2026-08-05,Aisha Thomas,Corporate,North,Delhi,New Delhi,Furniture,Chairs,Chairs Pro,5,628.11,0.15,99.87,Express,Bank Transfer
+ORD-0071,2026-01-08,Meera Kumar,Home Office,West,Gujarat,Ahmedabad,Office Supplies,Storage,Storage Pro,7,2330.41,0.0,327.35,Standard,Cash
+ORD-0072,2026-02-23,Rohan Joseph,Home Office,South,Kerala,Thrissur,Technology,Monitors,Monitors Pro,5,2153.66,0.3,17.53,Express,Bank Transfer
+ORD-0073,2026-04-21,Ishaan Varma,Corporate,South,Karnataka,Bengaluru,Technology,Printers,Printers Premium,8,211.82,0.1,-11.41,Same Day,Card
+ORD-0074,2026-04-16,Rahul Joseph,Home Office,South,Tamil Nadu,Chennai,Furniture,Chairs,Chairs Pro,6,4342.02,0.2,-185.57,Express,Bank Transfer
+ORD-0075,2026-08-21,Vishnu Kumar,Home Office,South,Telangana,Hyderabad,Technology,Laptops,Laptops Premium,7,2735.08,0.15,250.84,Express,Card
+ORD-0076,2026-02-10,Fahad Joseph,Consumer,South,Kerala,Kochi,Technology,Monitors,Monitors Pro,1,1216.9,0.15,275.75,Same Day,Card
+ORD-0077,2026-05-13,Diya Pillai,Consumer,South,Kerala,Kochi,Technology,Monitors,Monitors Pro,5,2958.71,0.2,-74.19,Standard,Card
+ORD-0078,2026-07-31,Meera Joseph,Corporate,South,Kerala,New delhi,Office Supplies,Binders,Binders Pro,3,2979.32,0.0,452.0,Standard,Card
+ORD-0079,2026-04-19,Ishaan Nair,Consumer,West,Maharashtra,Mumbai,Technology,Monitors,Monitors Premium,8,820.31,0.2,111.92,Express,Card
+ORD-0080,2026-01-13,Fahad Menon,Corporate,North,Delhi,NEW DELHI,Office Supplies,Paper,Paper Premium,2,2489.77,0.3,-372.28,Express,UPI
+ORD-0081,2026-07-22,Rohan Thomas,Corporate,West,Gujarat,Ahmedabad,Technology,Printers,Printers Basic,4,857.05,0.05,102.33,Express,Card
+ORD-0082,2026-06-07,Rohan Kumar,Home Office,West,Gujarat, Ahmedabad ,Furniture,Chairs,Chairs Premium,3,2642.61,0.1,102.25,Same Day,Bank Transfer
+ORD-0083,2026-08-11,Riya Kumar,Home Office,South,Tamil Nadu,Chennai,Technology,Printers,Printers Premium,8,2420.3,0.15,322.74,Standard,Cash
+ORD-0084,2026-06-03,Sneha Khan,Home Office,South,Telangana,Hyderabad,Office Supplies,Storage,Storage Premium,2,1175.75,0.0,294.33,Same Day,Cash
+ORD-0085,2026-04-06,Fahad Varma,Home Office,West,Gujarat,Ahmedabad,Furniture,Bookcases,Bookcases Pro,7,3911.58,0.3,-573.67,Express,Card
+ORD-0086,2026-04-30,Ananya Das,Consumer,West,Maharashtra,Mumbai,Office Supplies,Storage,Storage Premium,5,5738.11,0.0,284.96,Same Day,Card
+ORD-0087,2026-02-22,Meera Sharma,Consumer,South,Kerala,Kochi,Office Supplies,Stationery,Stationery Basic,3,1251.16,0.3,-115.54,Standard,Cash
+ORD-0088,2026-08-12,Fahad Kumar,Consumer,South,Telangana,Hyderabad,Office Supplies,Paper,Paper Premium,2,614.74,0.1,-42.6,Standard,Card
+ORD-0089,2026-04-05,Amal Kumar,Consumer,West,Gujarat,Ahmedabad,Technology,Monitors,Monitors Pro,5,407.91,0.1,13.14,Standard,Cash
+ORD-0090,2026-04-16,Nikhil Varma,Home Office,South,Telangana,Hyderabad,Technology,Accessories,Accessories Premium,3,1299.93,0.15,279.67,Standard,Cash
+ORD-0091,2026-02-22,Sneha Menon,Home Office,South,Kerala,Kochi,Technology,Accessories,Accessories Pro,1,1509.52,0.2,111.27,Standard,UPI
+ORD-0092,2026-06-21,Arjun Thomas,Home Office,North,Delhi,New Delhi,Office Supplies,Paper,Paper Basic,4,672.56,0.0,35.07,Express,Cash
+ORD-0093,2026-05-23,Vishnu Menon,Consumer,South,Kerala,Kochi,Office Supplies,Paper,Paper Basic,4,1490.47,0.3,-154.92,Same Day,Cash
+ORD-0094,2026-07-14,Kavya Khan,Corporate,South,Kerala,Kochi,Office Supplies,Storage,Storage Basic,3,4299.4,0.1,-198.71,Same Day,Cash
+ORD-0095,2026-06-12,Ananya Thomas,Consumer,South,Telangana,Hyderabad,Technology,Printers,Printers Pro,8,3063.21,0.3,-262.28,Express,Card
+ORD-0096,2026-03-14,Rohan Menon,Home Office,South,Karnataka,Bengaluru,Office Supplies,Paper,Paper Basic,2,1731.93,0.0,159.96,Express,Bank Transfer
+ORD-0097,2026-02-21,Aarav Khan,Consumer,South,Kerala,Kochi,Technology,Monitors,Monitors Pro,8,844.68,0.0,231.79,Same Day,Bank Transfer
+ORD-0098,2026-04-20,Ananya Khan,Corporate,West,Maharashtra,Mumbai,Furniture,Tables,Tables Basic,5,460.84,0.3,-4.2,Same Day,Cash
+ORD-0099,2026-06-24,Ananya Das,Consumer,West,Gujarat,Ahmedabad,Furniture,Chairs,Chairs Pro,3,580.1,0.15,20.4,Same Day,Bank Transfer
+ORD-0100,2026-02-27,Meera Thomas,Consumer,West,Gujarat,Ahmedabad,Technology,Printers,Printers Pro,1,4312.74,0.0,32.19,Standard,Card
+ORD-0101,2026-03-19,Kavya Thomas,Corporate,South,Telangana,Hyderabad,Office Supplies,Storage,Storage Pro,7,515.85,0.05,79.92,Express,Bank Transfer
+ORD-0102,2026-07-09,Nikhil Thomas,Corporate,South,Karnataka,Bengaluru,Technology,Accessories,Accessories Premium,4,2104.78,0.05,255.43,Same Day,Cash
+ORD-0103,2026-02-26,Rahul Thomas,Home Office,South,Telangana,Hyderabad,Technology,Monitors,Monitors Pro,8,"₹2,012.77",0.0,172.28,Express,Card
+ORD-0104,2026-07-19,Amal Khan,Home Office,South,Tamil Nadu,Chennai,Furniture,Desks,Desks Basic,7,630.77,0.1,116.75,Same Day,Bank Transfer
+ORD-0105,2026-05-14,Ishaan Kumar,Corporate,West,Maharashtra,Mumbai,Office Supplies,Paper,Paper Premium,6,626.53,0.0,109.05,Standard,Cash
+ORD-0106,2026-05-13,Arjun Joseph,Consumer,South,Tamil Nadu,Chennai,Technology,Printers,Printers Pro,5,4105.67,0.15,-132.45,Express,Card
+ORD-0107,2026-07-09,Aarav Nair,Consumer,South,Kerala,Thrissur,Office Supplies,Paper,Paper Basic,1,3947.68,0.2,388.75,Same Day,Cash
+ORD-0108,2026-04-24,Ananya Kumar,Home Office,South,Kerala,Thrissur,Technology,Laptops,Laptops Basic,8,450.8,0.2,85.55,Standard,UPI
+ORD-0109,2026-05-09,Nikhil Varma,Home Office,South,Kerala,Kozhikode,Office Supplies,Stationery,Stationery Premium,2,48.93,0.1,3.63,Express,Bank Transfer
+ORD-0110,2026-02-17,Aarav Kumar,Home Office,South,Kerala,Kochi,Technology,Printers,Printers Basic,1,2235.74,0.0,-114.32,,Cash
+ORD-0111,2026-02-20,Amal Nair,Corporate,South,Kerala,Kozhikode,Furniture,Tables,Tables Pro,2,₹23.03,0.1,-1.27,Express,Cash
+ORD-0112,2026-01-11,Arjun Menon,Home Office,South,Kerala,Thrissur,Furniture,Tables,Tables Pro,8,1648.8,0.05,87.75,Standard,Cash
+ORD-0113,2026-05-11,Arjun Kumar,Consumer,North,Delhi,New Delhi,Furniture,Tables,Tables Pro,1,1603.27,0.05,186.9,Standard,Bank Transfer
+ORD-0114,2026-08-09,Diya Thomas,Corporate,South,Kerala,Kochi,Furniture,Bookcases,Bookcases Basic,7,256.49,0.05,50.03,Express,Cash
+ORD-0115,2026-01-25,Aisha Varma,Corporate,West,Maharashtra,Mumbai,Office Supplies,Storage,Storage Premium,3,488.22,0.05,95.78,Express,Bank Transfer
+ORD-0116,2026-08-17,Kavya Pillai,Corporate,South,Karnataka,Bengaluru,Office Supplies,Paper,Paper Basic,7,283.12,0.15,53.62,Express,UPI
+ORD-0117,2026-08-17,Ishaan Thomas,Consumer,South,Telangana,Hyderabad,Technology,Laptops,Laptops Premium,3,2682.13,0.0,294.74,Standard,Cash
+ORD-0118,2026-07-20,Vishnu Sharma,Corporate,South,Kerala,Thrissur,Office Supplies,Binders,Binders Basic,2,3831.79,0.3,640.24,Same Day,Bank Transfer
+ORD-0119,2026-01-27,Rahul Kumar,Home Office,South,Kerala,Kozhikode,Office Supplies,Paper,Paper Premium,3,2362.19,0.2,-307.94,Express,UPI
+ORD-0120,2026-06-15,Nikhil Joseph,Consumer,West,Gujarat,Ahmedabad,Furniture,Desks,Desks Pro,7,5614.35,0.3,872.87,Same Day,Card
+ORD-0121,2026-01-25,Meera Joseph,Corporate,South,Telangana,Hyderabad,Technology,Laptops,Laptops Pro,1,4379.93,0.3,-638.11,Express,Card
+ORD-0122,2026-06-03,Sneha Kumar,Corporate,South,Kerala,Kozhikode,Technology,Monitors,Monitors Basic,3,1453.75,0.3,34.59,Express,Cash
+ORD-0123,2026-01-14,Ananya Pillai,Consumer,West,Gujarat,Ahmedabad,Office Supplies,Storage,Storage Premium,8,199.7,0.3,-10.93,Standard,Bank Transfer
+ORD-0124,2026-04-04,Arjun Pillai,Corporate,South,Kerala,Kochi,Furniture,Chairs,Chairs Premium,6,843.82,0.05,-10.75,Standard,Bank Transfer
+ORD-0125,2026-01-11,Meera Sharma,Consumer,South,Telangana,Hyderabad,Technology,Laptops,Laptops Basic,6,1223.23,0.0,72.52,Standard,UPI
+ORD-0126,2026-08-18,Ishaan Das,Home Office,South,Kerala,Kochi,Office Supplies,Binders,Binders Pro,2,43.27,0.0,0.78,Same Day,UPI
+ORD-0127,2026-04-14,Arjun Kumar,Corporate,South,Tamil Nadu,Chennai,Technology,Laptops,Laptops Basic,2,2333.03,0.05,604.93,Same Day,UPI
+ORD-0128,2026-08-19,Amal Varma,Corporate,South,Kerala,Thrissur,Technology,Monitors,Monitors Basic,5,4463.44,0.05,350.43,Same Day,Card
+ORD-0129,2026-03-15,Ishaan Thomas,Consumer,West,Maharashtra,Mumbai,Office Supplies,Binders,Binders Pro,7,1902.95,0.2,185.82,Express,Card
+ORD-0130,2026-03-12,Amal Nair,Consumer,South,Kerala,Thrissur,Furniture,Bookcases,Bookcases Premium,4,2345.4,0.15,27.89,,Card
+ORD-0131,2026-01-03,Fahad Sharma,Corporate,West,Maharashtra,Mumbai,Office Supplies,Paper,Paper Pro,5,1893.41,0.1,428.77,Same Day,UPI
+ORD-0132,2026-05-04,Amal Nair,Consumer,South,Karnataka,Bengaluru,Technology,Accessories,Accessories Premium,7,2505.96,0.15,158.53,Express,Cash
+ORD-0133,2026-01-07,Sneha Pillai,Home Office,South,Tamil Nadu,Chennai,Office Supplies,Storage,Storage Basic,3,₹729.86,0.05,49.59,Express,Bank Transfer
+ORD-0134,2026-07-06,Rohan Joseph,Consumer,South,Kerala,Kozhikode,Office Supplies,Storage,Storage Pro,3,2534.38,0.1,-218.66,Standard,UPI
+ORD-0135,2026-03-05,Nikhil Nair,Consumer,West,Gujarat,Ahmedabad,Technology,Monitors,Monitors Basic,1,398.59,0.15,29.5,Same Day,Bank Transfer
+ORD-0136,2026-08-07,Nikhil Sharma,Consumer,West,Gujarat,Ahmedabad,office supplies,Chairs,Chairs Premium,7,137.75,0.05,29.03,Same Day,UPI
+ORD-0137,2026-06-29,Aisha Menon,Corporate,South,Telangana,Hyderabad,Office Supplies,Storage,Storage Pro,4,1471.54,0.2,-144.75,Standard,Bank Transfer
+ORD-0138,2026-06-10,Meera Nair,Corporate,North,Delhi,New Delhi,Office Supplies,Stationery,Stationery Premium,8,5897.38,0.1,-232.29,Express,Bank Transfer
+ORD-0139,2026-07-14,Rohan Thomas,Corporate,South,Kerala,Thrissur,Technology,Printers,Printers Premium,7,604.24,0.05,127.91,Express,UPI
+ORD-0140,2026-01-19,Ishaan Pillai,Home Office,West,Maharashtra,Mumbai,Technology,Laptops,Laptops Pro,7,487.97,0.05,-9.55,Same Day,UPI
+ORD-0141,2026-05-25,Riya Varma,Consumer,South,Kerala,Thrissur,Office Supplies,Paper,Paper Pro,1,854.51,0.0,-15.48,Same Day,UPI
+ORD-0142,2026-03-24,Nikhil Das,Home Office,West,Maharashtra,Mumbai,Technology,Monitors,Monitors Basic,8,346.5,0.05,8.16,Standard,Bank Transfer
+ORD-0143,2026-08-17,Riya Khan,Consumer,West,Gujarat,Ahmedabad,Technology,Printers,Printers Basic,2,2149.7,0.0,375.86,Express,Cash
+ORD-0144,2026-05-17,Rohan Khan,Home Office,South,Tamil Nadu,Chennai,Office Supplies,Paper,Paper Basic,1,5241.2,0.1,980.06,Express,Cash
+ORD-0145,2026-07-25,Rahul Nair,Corporate,South,Telangana,Hyderabad,Office Supplies,Paper,Paper Pro,1,1632.83,0.0,-65.09,Express,Card
+ORD-0146,2026-06-14,Fahad Nair,Consumer,South,Telangana,Hyderabad,Furniture,Tables,Tables Basic,1,1617.29,0.2,-49.52,Standard,Cash
+ORD-0147,2026-08-28,,Home Office,South,Tamil Nadu,Chennai,Office Supplies,Storage,Storage Premium,4,2120.31,0.0,588.14,Same Day,UPI
+ORD-0148,2026-08-03,Kavya Nair,Home Office,South,Kerala,Kochi,Technology,Monitors,Monitors Premium,1,328.97,0.3,11.42,Express,Cash
+ORD-0149,2026-06-14,Aisha Das,Corporate,South,Karnataka,Bengaluru,Technology,Printers,Printers Premium,6,1419.62,0.3,-144.95,Standard,Bank Transfer
+ORD-0150,2026-07-04,Aarav Khan,Home Office,South,Telangana,Hyderabad,Office Supplies,Storage,Storage Pro,1,1153.73,0.1,-22.4,Same Day,Bank Transfer
+ORD-0151,2026-03-11,Sneha Pillai,Consumer,West,Maharashtra,Mumbai,Office Supplies,Storage,Storage Premium,7,2473.95,0.1,-123.07,Same Day,UPI
+ORD-0152,2026-04-03,Aarav Pillai,Home Office,South,Tamil Nadu,Chennai,Technology,Printers,Printers Premium,5,1484.28,0.1,93.71,Standard,Bank Transfer
+ORD-0153,2026-06-06,Arjun Thomas,Consumer,West,Gujarat,Ahmedabad, Furniture ,Chairs,Chairs Premium,1,2355.84,0.05,-166.53,Express,Cash
+ORD-0154,2026-05-18,Aarav Thomas,Home Office,North,Delhi,New Delhi,Office Supplies,Stationery,Stationery Premium,5,2517.02,0.3,48.14,Standard,Bank Transfer
+ORD-0155,2026-04-19,Rahul Nair,Corporate,South,Kerala,Kochi,Technology,Printers,Printers Basic,6,422.65,0.2,33.16,Express,Bank Transfer
+ORD-0156,2026-01-29,Nikhil Menon,Home Office,South,Kerala,Kochi,Furniture,Chairs,Chairs Pro,7,3971.49,0.15,100.38,Express,Cash
+ORD-0157,2026-03-10,Sneha Menon,Home Office,South,Kerala,Kochi,Technology,Monitors,Monitors Pro,1,894.26,0.05,73.79,Standard,Cash
+ORD-0158,2026-07-05,Riya Das,Home Office,North,Delhi,New Delhi,Furniture,Bookcases,Bookcases Premium,7,3923.7,0.15,210.2,Same Day,Card
+ORD-0159,2026-04-16,Fahad Sharma,Home Office,North,Delhi,New Delhi,Furniture,Bookcases,Bookcases Pro,6,2976.53,0.1,183.04,Express,UPI
+ORD-0160,2026-01-18,Aisha Menon,Corporate,West,Gujarat,Ahmedabad,Office Supplies,Paper,Paper Pro,8,3966.52,0.2,-111.06,Standard,Bank Transfer
+ORD-0161,2026-02-05,Aarav Nair,Home Office,North,Delhi,New Delhi,Office Supplies,Binders,Binders Basic,8,1891.55,0.0,407.59,Standard,UPI
+ORD-0162,2026-05-02,Nikhil Varma,Home Office,South,Kerala,Kozhikode,Technology,Printers,Printers Pro,5,421.55,0.1,32.11,Express,Bank Transfer
+ORD-0163,2026-02-15,Meera Joseph,Consumer,South,Kerala,Kochi,Technology,Laptops,Laptops Basic,8,"₹6,153.99",0.2,1056.73,Standard,Bank Transfer
+ORD-0164,2026-01-31,Diya Khan,Home Office,South,Tamil Nadu,Chennai,Office Supplies,Paper,Paper Basic,8,4435.52,0.05,77.74,Same Day,Bank Transfer
+ORD-0165,2026-04-30,Meera Menon,Consumer,South,Karnataka,Bengaluru,Office Supplies,Stationery,Stationery Basic,3,2214.46,0.15,-233.11,Express,Cash
+ORD-0166,2026-03-11,Riya Sharma,Corporate,South,Kerala,Thrissur,Furniture,Bookcases,Bookcases Basic,1,1765.0,0.05,290.7,Same Day,Bank Transfer
+ORD-0167,2026-08-01,Meera Kumar,Corporate,South,Tamil Nadu,Chennai,Technology,Monitors,Monitors Premium,2,1168.15,0.0,308.8,Same Day,UPI
+ORD-0168,2026-07-12,Rohan Nair,Corporate,South,Telangana,Hyderabad,Technology,Printers,Printers Premium,7,3793.69,0.15,-116.92,Express,UPI
+ORD-0169,2026-07-01,Rohan Menon,Corporate,North,Delhi,New Delhi,Technology,Monitors,Monitors Pro,2,1019.52,0.0,214.37,Standard,Bank Transfer
+ORD-0170,2026-01-16,Kavya Varma,Consumer,South,Kerala,Thrissur,Office Supplies,Storage,Storage Basic,6,2977.36,0.3,105.33,Standard,Bank Transfer
+ORD-0171,2026-07-29,Rahul Sharma,Consumer,West,Maharashtra,Mumbai,Furniture,Desks,Desks Premium,1,2387.81,0.1,-194.38,Express,Card
+ORD-0172,2026-06-29,Kavya Kumar,Corporate,South,Tamil Nadu,Chennai,Office Supplies,Storage,Storage Premium,4,4704.58,0.15,673.88,Standard,
+ORD-0173,2026-02-13,Rahul Kumar,Home Office,South,Kerala,Thrissur,Office Supplies,Storage,Storage Pro,4,245.22,0.2,15.16,Standard,Cash
+ORD-0174,2026-04-05,Sneha Kumar,Corporate,South,Kerala, Kozhikode ,Furniture,Bookcases,Bookcases Pro,4,361.89,0.05,70.24,Express,Cash
+ORD-0175,2026-05-25,Sneha Khan,Home Office,North,Delhi,New Delhi,Office Supplies,Storage,Storage Premium,4,1203.84,0.2,235.45,Same Day,UPI
+ORD-0176,2026-06-11,Meera Joseph,Corporate,South,Telangana,Hyderabad,TECHNOLOGY,Accessories,Accessories Basic,1,239.77,0.3,-9.24,Same Day,UPI
+ORD-0177,2026-05-07,Fahad Sharma,Corporate,North,Delhi,New Delhi,Office Supplies,Binders,Binders Premium,2,5443.17,0.2,-802.42,Same Day,UPI
+ORD-0178,2026-07-27,Kavya Khan,Corporate,North,Delhi,New Delhi,Office Supplies,Paper,Paper Pro,4,591.72,0.2,83.07,Express,Card
+ORD-0179,2026-02-10,Amal Varma,Consumer,North,Delhi,New Delhi,Technology,Laptops,Laptops Basic,7,460.63,0.2,-5.4,Express,Cash
+ORD-0180,2026-07-18,Aarav Thomas,Consumer,West,Maharashtra,Mumbai,Technology,Accessories,Accessories Basic,1,1117.8,0.15,107.47,Express,Card
+ORD-0181,2026-01-27,Sneha Menon,Consumer,North,Delhi,New Delhi,Technology,Accessories,Accessories Pro,6,295.24,0.05,6.88,Express,Bank Transfer
+ORD-0182,2026-05-24,Arjun Joseph,Home Office,North,Delhi,New Delhi,Furniture,Desks,Desks Premium,6,1805.05,0.15,-225.48,Same Day,UPI
+ORD-0183,2026-06-04,Diya Kumar,Consumer,South,Telangana,Hyderabad,Technology,Monitors,Monitors Pro,6,537.23,0.15,20.81,Express,Card
+ORD-0184,2026-03-19,Riya Varma,Home Office,West,Gujarat,Ahmedabad,Technology,Laptops,Laptops Pro,4,2571.78,0.15,558.2,Express,Bank Transfer
+ORD-0185,2026-01-16,Meera Thomas,Consumer,South,Telangana,Hyderabad,Furniture,Chairs,Chairs Basic,7,3442.19,0.3,-101.49,Express,Bank Transfer
+ORD-0186,2026-07-10,Amal Thomas,Consumer,West,Gujarat,Bangalore,Technology,Monitors,Monitors Pro,5,1614.18,0.15,-19.69,Express,Bank Transfer
+ORD-0187,2026-04-10,Meera Sharma,Corporate,South,Karnataka,Bengaluru,Technology,Monitors,Monitors Pro,7,1694.19,0.15,357.54,Standard,Card
+ORD-0188,2026-01-14,Sneha Thomas,Consumer,South,Kerala,Kochi,Furniture,Tables,Tables Premium,5,1646.04,0.2,-137.97,Same Day,Card
+ORD-0189,2026-07-01,Rohan Thomas,Home Office,West,Maharashtra,Mumbai,Technology,Monitors,Monitors Premium,4,886.79,0.0,78.16,Same Day,Card
+ORD-0190,2026-08-15,Nikhil Menon,Corporate,North,Delhi,New Delhi,Technology,Accessories,Accessories Pro,6,4113.2,0.0,854.67,Same Day,Bank Transfer
+ORD-0191,2026-08-03,Ananya Sharma,Consumer,West,Maharashtra,Mumbai,Technology,Accessories,Accessories Basic,1,2342.53,0.05,385.91,Same Day,UPI
+ORD-0192,2026-06-18,Fahad Pillai,Corporate,West,Gujarat,Ahmedabad,Office Supplies,Binders,Binders Premium,8,3277.03,0.05,174.18,Standard,Bank Transfer
+ORD-0193,2026-03-13,Aarav Das,Home Office,North,Delhi,New Delhi,Technology,Laptops,Laptops Basic,8,795.51,0.2,27.33,Same Day,Bank Transfer
+ORD-0194,2026-06-14,Aarav Sharma,Corporate,South,Tamil Nadu,Chennai,Furniture,Bookcases,Bookcases Pro,2,2390.88,0.1,33.31,Same Day,Cash
+ORD-0195,2026-06-04,Vishnu Khan,Consumer,South,Telangana, Hyderabad ,Technology,Accessories,Accessories Pro,4,2196.6,0.15,334.45,Same Day,Bank Transfer
+ORD-0196,2026-04-19,Ananya Varma,Corporate,South,Tamil Nadu,Chennai,Office Supplies,Paper,Paper Basic,7,5169.79,0.05,-318.62,Express,UPI
+ORD-0197,2026-04-26,Fahad Nair,Home Office,West,Maharashtra,Mumbai,Technology,Laptops,Laptops Basic,8,274.61,0.2,37.06,Express,Card
+ORD-0198,2026-06-19,Ishaan Pillai,Home Office,South,Tamil Nadu,Chennai,Furniture,Bookcases,Bookcases Basic,5,1260.04,0.15,-90.55,Same Day,UPI
+ORD-0199,2026-05-10,Nikhil Thomas,Corporate,South,Kerala,Kochi,Furniture,Bookcases,Bookcases Premium,5,709.07,0.15,47.0,Same Day,UPI
+ORD-0200,2026-06-15,Sneha Sharma,Home Office,South,Telangana,Hyderabad,Furniture,Desks,Desks Pro,4,1894.41,0.05,-72.46,Express,Card
+ORD-0201,2026-07-27,Amal Menon,Consumer,North,Delhi,New Delhi,Office Supplies,Paper,Paper Pro,4,1292.67,0.05,131.71,Same Day,Cash
+ORD-0202,2026-01-05,Riya Joseph,Consumer,West,Gujarat,Ahmedabad,Furniture,Chairs,Chairs Basic,4,4768.73,0.05,-331.75,Express,UPI
+ORD-0203,2026-02-16,Nikhil Varma,Corporate,South,Tamil Nadu,Chennai,Office Supplies,Stationery,Stationery Pro,5,342.37,0.0,16.0,Same Day,Bank Transfer
+ORD-0204,2026-02-04,Meera Menon,Consumer,South,Telangana,Hyderabad,Technology,Laptops,Laptops Premium,4,629.15,0.2,-71.74,Standard,Bank Transfer
+ORD-0205,2026-03-02,Nikhil Pillai,Consumer,West,Maharashtra,Mumbai,Office Supplies,Stationery,Stationery Premium,8,6319.01,0.0,-217.92,Same Day,UPI
+ORD-0206,2026-01-18,Aisha Nair,Home Office,South,Kerala,Kozhikode,Furniture,Desks,Desks Premium,2,1317.13,0.05,316.05,Express,Cash
+ORD-0207,2026-08-19,Kavya Nair,Consumer,South,Karnataka,Bengaluru,Technology,Accessories,Accessories Premium,1,370.52,0.0,101.71,Same Day,Bank Transfer
+ORD-0208,2026-03-27,Rahul Menon,Home Office,West,Gujarat,Ahmedabad,Office Supplies,Paper,Paper Basic,6,149.72,0.3,-10.13,Standard,Bank Transfer
+ORD-0209,2026-08-17,Fahad Khan,Home Office,South,Kerala,Kozhikode,Technology,Printers,Printers Basic,5,3040.78,0.15,-332.88,Same Day,Card
+ORD-0210,2026-07-14,Kavya Sharma,Consumer,South,Karnataka,Bengaluru,Furniture,Chairs,Chairs Basic,6,891.63,0.3,122.96,Same Day,UPI
+ORD-0211,2026-02-05,Sneha Nair,Consumer,South,Kerala,Thrissur,Office Supplies,Paper,Paper Basic,3,1400.02,0.05,294.48,,Cash
+ORD-0212,2026-07-22,Rahul Khan,Corporate,South,Kerala,THRISSUR,Office Supplies,Storage,Storage Premium,8,321.58,0.1,-8.4,Standard,Card
+ORD-0213,2026-05-25,Aisha Nair,Home Office,South,Kerala,Kozhikode,Furniture,Tables,Tables Premium,6,4847.92,0.15,651.32,Standard,Card
+ORD-0214,2026-04-16,Nikhil Menon,Home Office,West,Maharashtra,Mumbai,Office Supplies,Binders,Binders Premium,6,1777.13,0.0,356.08,Express,Card
+ORD-0215,2026-04-19,,Consumer,South,Kerala,Kochi,Furniture,Desks,Desks Premium,2,6453.96,0.05,-383.41,Same Day,Card
+ORD-0216,2026-06-28,Riya Nair,Home Office,West,Gujarat,Ahmedabad,Furniture,Desks,Desks Pro,8,1618.18,0.2,121.74,Standard,UPI
+ORD-0217,2026-06-01,Rohan Das,Consumer,South,Tamil Nadu,Chennai,Technology,Monitors,Monitors Premium,2,3388.69,0.05,447.55,Same Day,Card
+ORD-0218,2026-07-24,Ishaan Sharma,Corporate,North,Delhi,New Delhi,Technology,Laptops,Laptops Basic,5,5935.81,0.2,-330.51,Same Day,Card
+ORD-0219,2026-01-09,Arjun Das,Consumer,South,Telangana,HYDERABAD,Technology,Printers,Printers Premium,7,2458.56,0.1,500.64,Express,UPI
+ORD-0220,2026-01-01,Meera Thomas,Consumer,South,Kerala,Kozhikode,Technology,Monitors,Monitors Pro,7,4095.84,0.2,-210.38,Express,Card
+ORD-0221,2026-03-01,Aisha Khan,Corporate,West,Maharashtra,Mumbai,Technology,Printers,Printers Basic,1,4243.66,0.0,172.81,Standard,Card
+ORD-0222,2026-01-04,Aarav Nair,Corporate,South,Kerala,Kochi,Technology,Accessories,Accessories Premium,4,1218.68,0.0,121.28,Express,Card
+ORD-0223,2026-02-13,Ishaan Thomas,Home Office,South,Kerala,Kozhikode,Technology,Accessories,Accessories Pro,5,1095.72,0.0,208.7,Same Day,Card
+ORD-0224,2026-02-18,Arjun Kumar,Home Office,South,Tamil Nadu,Chennai,Office Supplies,Binders,Binders Basic,1,2080.84,0.3,-318.97,Same Day,UPI
+ORD-0225,2026-03-26,Meera Pillai,Consumer,West,Gujarat,Ahmedabad,Office Supplies,Storage,Storage Pro,7,106.01,0.2,0.27,Standard,UPI
+ORD-0226,2026-05-05,Vishnu Nair,Corporate,South,Kerala,Thrissur,Office Supplies,Stationery,Stationery Premium,5,4021.92,0.3,228.84,Express,Cash
+ORD-0227,2026-02-02,Sneha Varma,Corporate,South,Karnataka,Bengaluru,Technology,Laptops,Laptops Pro,1,5250.35,0.15,1135.1,Same Day,Card
+ORD-0228,2026-05-28,Rahul Khan,Consumer,South,Kerala,Kozhikode,Furniture,Tables,Tables Premium,8,210.9,0.1,3.75,Express,Card
+ORD-0229,2026-04-03,Diya Thomas,Home Office,North,Delhi,New Delhi,Office Supplies,Stationery,Stationery Basic,2,961.56,0.1,165.29,Express,Bank Transfer
+ORD-0230,2026-03-27,Diya Menon,Consumer,South,Tamil Nadu,Chennai,Furniture,Chairs,Chairs Premium,1,254.83,0.3,-43.88,Same Day,Cash
+ORD-0231,2026-04-05,Rohan Pillai,Consumer,West,Gujarat,Ahmedabad,Furniture,Chairs,Chairs Premium,7,1597.57,0.05,9.46,Same Day,Cash
+ORD-0232,2026-08-21,Diya Pillai,Corporate,North,Delhi,New Delhi,Technology,Laptops,Laptops Pro,6,1222.02,0.0,90.63,Standard,Cash
+ORD-0233,2026-06-16,Fahad Das,Home Office,South,Kerala,Thrissur,Office Supplies,Storage,Storage Premium,7,6640.12,0.0,1.35,Express,UPI
+ORD-0234,2026-05-14,Sneha Joseph,Home Office,South,Telangana,Hyderabad,Office Supplies,Storage,Storage Basic,5,2020.76,0.15,421.52,Standard,Bank Transfer
+ORD-0235,2026-08-10,Ananya Menon,Consumer,West,Maharashtra,Mumbai,Office Supplies,Stationery,Stationery Pro,3,227.82,0.1,22.0,Same Day,Bank Transfer
+ORD-0236,2026-08-18,Ananya Thomas,Consumer,South,Kerala,Kochi,Technology,Laptops,Laptops Pro,2,2670.24,0.3,-26.93,Same Day,Cash
+ORD-0237,2026-02-05,Sneha Kumar,Home Office,North,Delhi,New Delhi,Furniture,Desks,Desks Pro,4,950.5,0.3,54.91,Same Day,UPI
+ORD-0238,2026-04-24,Aarav Menon,Corporate,South,Kerala,Thrissur,Office Supplies,Binders,Binders Pro,6,667.02,0.0,105.59,Standard,Card
+ORD-0239,2026-03-01,Riya Kumar,Home Office,West,Gujarat,Ahmedabad,Technology,Laptops,Laptops Premium,6,1288.69,0.3,-43.51,Same Day,Bank Transfer
+ORD-0240,2026-03-13,Sneha Joseph,Corporate,West,Maharashtra,Mumbai,Office Supplies,Stationery,Stationery Pro,3,153.62,0.1,0.28,Standard,UPI
+ORD-0241,2026-04-08,Aisha Thomas,Home Office,South,Telangana,Hyderabad,Office Supplies,Paper,Paper Premium,6,1148.96,0.1,84.42,Standard,Bank Transfer
+ORD-0242,2026-04-10,Aisha Kumar,Corporate,South,Kerala,Kochi,Technology,Printers,Printers Premium,8,1159.82,0.2,153.5,Same Day,Card
+ORD-0243,2026-05-25,Fahad Thomas,Home Office,South,Kerala,Kozhikode,Office Supplies,Storage,Storage Pro,3,495.08,0.3,76.16,Express,Card
+ORD-0244,2026-06-07,Nikhil Nair,Consumer,South,Telangana,Hyderabad,Furniture,Chairs,Chairs Basic,1,986.25,0.3,-87.32,Express,UPI
+ORD-0245,2026-08-19,Ishaan Das,Consumer,South,Tamil Nadu,Chennai,Furniture,Chairs,Chairs Basic,3,347.26,0.0,4.91,Express,Card
+ORD-0246,2026-03-17,Rohan Joseph,Corporate,South,Kerala,Kozhikode,Furniture,Chairs,Chairs Basic,8,1755.69,0.15,244.82,Standard,Bank Transfer
+ORD-0247,2026-03-12,Vishnu Kumar,Home Office,South,Tamil Nadu,Chennai,Office Supplies,Stationery,Stationery Premium,2,2953.51,0.0,318.95,Express,Cash
+ORD-0248,2026-01-22,Diya Varma,Home Office,South,Karnataka,Bengaluru,Technology,Monitors,Monitors Pro,1,1597.69,0.0,233.64,Express,Cash
+ORD-0249,2026-03-11,Fahad Joseph,Corporate,South,Tamil Nadu,Chennai,Office Supplies,Binders,Binders Premium,1,3641.73,0.05,539.63,Standard,Card
+ORD-0250,2026-05-17,Amal Das,Home Office,South,Kerala,Thrissur,Office Supplies,Paper,Paper Pro,7,3748.31,0.15,810.9,Express,Card
+ORD-0251,2026-01-23,Fahad Joseph,Corporate,South,Kerala,Thrissur,Office Supplies,Stationery,Stationery Premium,7,832.87,0.2,-47.23,Same Day,Card
+ORD-0252,2026-03-29,Arjun Sharma,Consumer,South,Karnataka,Bengaluru,Technology,Accessories,Accessories Premium,6,534.67,0.2,13.9,Express,Bank Transfer
+ORD-0253,2026-01-22,Vishnu Varma,Consumer,West,Maharashtra,Mumbai,Furniture,Bookcases,Bookcases Pro,2,4169.78,0.3,271.45,Standard,UPI
+ORD-0254,2026-08-20,Rahul Thomas,Corporate,North,Delhi,New Delhi,Furniture,Desks,Desks Pro,7,390.86,0.05,48.33,Standard,Cash
+ORD-0255,2026-01-22,Kavya Thomas,Consumer,South,Kerala,Kozhikode,Furniture,Chairs,Chairs Pro,8,3701.64,0.2,-7.6,Express,UPI
+ORD-0256,2026-05-09,Rahul Thomas,Consumer,South,Telangana,Hyderabad,Furniture,Chairs,Chairs Premium,1,1656.71,0.0,111.86,Standard,UPI
+ORD-0257,2026-02-13,Aisha Joseph,Corporate,North,Delhi,New Delhi,Technology,Monitors,Monitors Pro,1,"₹2,189.71",0.05,454.87,Standard,Bank Transfer
+ORD-0258,2026-01-06,Arjun Das,Home Office,South,Tamil Nadu,Chennai,Technology,Accessories,Accessories Pro,1,420.76,0.1,0.74,Express,UPI
+ORD-0259,2026-01-19,Nikhil Sharma,Home Office,South,Kerala,Thrissur,Furniture,Tables,Tables Basic,6,445.99,0.0,-3.04,Express,Cash
+ORD-0260,2026-06-12,Vishnu Sharma,Home Office,North,Delhi,New Delhi,Technology,Accessories,Accessories Basic,5,2415.51,0.0,39.14,Same Day,UPI
+ORD-0261,2026-04-26,Rahul Khan,Home Office,South,Karnataka,Bengaluru,Technology,Printers,Printers Basic,5,219.04,0.1,-20.0,Express,UPI
+ORD-0262,2026-05-31,Kavya Pillai,Consumer,South,Kerala,Kochi,Technology,Laptops,Laptops Pro,1,5743.9,0.3,522.65,Standard,Card
+ORD-0263,2026-02-17,Kavya Khan,Home Office,North,Delhi,New Delhi,Office Supplies,Storage,Storage Pro,1,1453.8,0.0,-27.7,Same Day,Card
+ORD-0264,2026-08-17,Sneha Khan,Corporate,North,Delhi,New Delhi,Technology,Accessories,Accessories Premium,7,872.98,0.0,214.69,Standard,Card
+ORD-0265,2026-06-27,Riya Khan,Corporate,South,Kerala,Thrissur,Furniture,Tables,Tables Pro,1,2127.14,0.05,-63.95,Express,Cash
+ORD-0266,2026-02-14,Aarav Nair,Home Office,South,Karnataka,Bengaluru,Furniture,Desks,Desks Pro,2,1736.36,0.05,-110.27,Standard,Cash
+ORD-0267,2026-03-29,Meera Kumar,Home Office,South,Karnataka,BENGALURU,Technology,Laptops,Laptops Premium,3,3479.37,0.1,581.35,Standard,UPI
+ORD-0268,2026-02-14,Kavya Joseph,Consumer,South,Telangana,Hyderabad,Technology,Accessories,Accessories Basic,3,2632.87,0.0,580.6,Same Day,Cash
+ORD-0269,2026-04-22,Sneha Menon,Consumer,South,Telangana,Hyderabad,Technology,Accessories,Accessories Premium,1,2877.41,0.0,33.55,Standard,Cash
+ORD-0270,2026-07-19,Rohan Khan,Corporate,South,Kerala,Kozhikode,Furniture,Desks,Desks Basic,4,1540.96,0.15,122.11,Same Day,UPI
+ORD-0271,2026-08-18,Rohan Nair,Home Office,South,Kerala,Kozhikode,Furniture,Desks,Desks Basic,3,751.84,0.1,155.63,Standard,Bank Transfer
+ORD-0272,2026-05-13,Fahad Nair,Corporate,West,Gujarat,Ahmedabad,Office Supplies,Binders,Binders Premium,5,2531.93,0.0,67.12,Standard,Cash
+ORD-0273,2026-04-17,Arjun Varma,Consumer,South,Kerala,Kochi,Furniture,Desks,Desks Pro,4,2479.92,0.1,-37.33,Standard,Bank Transfer
+ORD-0274,2026-07-15,,Consumer,South,Kerala,Kochi,Office Supplies,Storage,Storage Basic,4,1054.49,0.1,-101.28,Standard,Card
+ORD-0275,2026-07-12,Nikhil Nair,Home Office,South,Kerala,Kochi,Technology,Printers,Printers Basic,7,1648.98,0.1,241.47,Express,Bank Transfer
+ORD-0276,2026-02-22,Kavya Das,Home Office,South,Karnataka,Bengaluru,Technology,Laptops,Laptops Premium,5,5090.24,0.2,845.4,Express,Cash
+ORD-0277,2026-08-11,Aisha Menon,Consumer,West,Gujarat,Ahmedabad,Office Supplies,Binders,Binders Basic,4,2680.64,0.0,-206.46,Same Day,Card
+ORD-0278,2026-01-15,Arjun Varma,Home Office,South,Tamil Nadu,CHENNAI,Technology,Monitors,Monitors Basic,3,2251.64,0.3,-137.09,Express,UPI
+ORD-0279,2026-03-21,Ananya Varma,Corporate,South,Karnataka,Bengaluru,Furniture,Bookcases,Bookcases Premium,2,4083.19,0.3,-177.6,Standard,Cash
+ORD-0280,2026-03-31,Sneha Varma,Consumer,South,Kerala,Thrissur,Technology,Accessories,Accessories Premium,6,3853.94,0.0,615.72,Express,Bank Transfer
+ORD-0281,2026-03-13,Riya Joseph,Home Office,West,Gujarat,Ahmedabad,Furniture,Bookcases,Bookcases Basic,1,4708.87,0.15,678.26,Standard,UPI
+ORD-0282,2026-08-15,Rohan Thomas,Corporate,South,Karnataka,Bengaluru,Office Supplies,Paper,Paper Pro,5,4130.24,0.05,785.33,Standard,UPI
+ORD-0283,2026-05-31,Rohan Nair,Corporate,South,Kerala,Thrissur,Furniture,Desks,Desks Basic,6,653.68,0.05,-51.56,Express,UPI
+ORD-0284,2026-02-13,Nikhil Sharma,Consumer,South,Kerala,Kozhikode,Office Supplies,Paper,Paper Basic,5,179.14,0.15,39.03,Express,Card
+ORD-0285,2026-08-02,Meera Pillai,Home Office,South,Telangana,Hyderabad,Office Supplies,Stationery,Stationery Basic,6,1101.21,0.1,11.8,Express,UPI
+ORD-0286,2026-06-19,Sneha Thomas,Corporate,West,Gujarat,Ahmedabad,Office Supplies,Paper,Paper Pro,2,3354.44,0.05,706.23,Standard,Bank Transfer
+ORD-0287,2026-02-02,Sneha Joseph,Home Office,South,Tamil Nadu,Chennai,Office Supplies,Binders,Binders Premium,6,292.12,0.0,-6.63,Standard,Card
+ORD-0288,2026-03-06,Rahul Khan,Corporate,South,Telangana,Hyderabad,Furniture,Tables,Tables Premium,2,1506.36,0.1,253.7,Express,Bank Transfer
+ORD-0289,2026-03-02,Fahad Kumar,Consumer,West,Maharashtra,Mumbai,Technology,Printers,Printers Premium,5,3461.32,0.05,-24.35,Same Day,Bank Transfer
+ORD-0290,2026-07-30,Arjun Joseph,Consumer,West,Gujarat,Ahmedabad,Furniture,Desks,Desks Premium,1,330.42,0.1,51.91,Same Day,Bank Transfer
+ORD-0291,2026-02-04,Rohan Menon,Corporate,South,Karnataka,Bengaluru,Furniture,Bookcases,Bookcases Pro,5,6964.81,0.0,-328.27,Same Day,UPI
+ORD-0292,2026-07-15,Amal Kumar,Consumer,South,Karnataka,Bengaluru,Office Supplies,Storage,Storage Pro,5,2273.95,0.05,-216.92,Express,UPI
+ORD-0293,2026-05-22,Meera Joseph,Corporate,West,Gujarat,Ahmedabad, Furniture ,Monitors,Monitors Basic,6,2236.77,0.05,584.09,Standard,Cash
+ORD-0294,2026-07-23,Kavya Joseph,Home Office,South,Telangana,Hyderabad,Furniture,Tables,Tables Pro,3,2353.75,0.3,-113.84,Same Day,Bank Transfer
+ORD-0295,2026-01-04,Kavya Menon,Home Office,South,Karnataka,Bengaluru,Technology,Monitors,Monitors Basic,1,1203.21,0.3,193.63,Standard,UPI
+ORD-0296,2026-06-28,Rohan Menon,Consumer,North,Delhi,New Delhi,Furniture,Chairs,Chairs Basic,4,2418.36,0.2,-39.3,Express,Bank Transfer
+ORD-0297,2026-01-17,Aarav Sharma,Home Office,South,Telangana,Hyderabad,Office Supplies,Stationery,Stationery Basic,8,714.73,0.3,91.19,Standard,Cash
+ORD-0298,2026-08-12,Ananya Thomas,Consumer,South,Telangana,Hyderabad,Office Supplies,Stationery,Stationery Premium,7,1899.09,0.1,233.44,Standard,Bank Transfer
+ORD-0299,2026-03-02,Aarav Kumar,Corporate,South,Kerala,Thrissur,Office Supplies,Binders,Binders Pro,5,1733.88,0.3,15.73,Express,UPI
+ORD-0300,2026-05-06,Ananya Kumar,Consumer,South,Telangana,Hyderabad,Technology,Laptops,Laptops Basic,7,681.81,0.05,3.91,Standard,Cash
+ORD-0301,2026-06-25,Vishnu Varma,Corporate,South,Karnataka,Bengaluru,Technology,Accessories,Accessories Basic,4,569.27,0.05,-44.37,Express,Cash
+ORD-0302,2026-03-12,Arjun Kumar,Consumer,West,Maharashtra,Mumbai,Office Supplies,Stationery,Stationery Pro,4,121.32,0.3,5.22,Express,Card
+ORD-0303,2026-07-18,Riya Pillai,Home Office,North,Delhi, New Delhi ,Furniture,Tables,Tables Basic,8,840.67,0.1,-68.01,Same Day,
+ORD-0304,2026-08-06,Riya Sharma,Home Office,West,Maharashtra,Mumbai,Office Supplies,Storage,Storage Basic,3,215.93,0.15,-12.63,Express,Card
+ORD-0305,2026-02-20,Nikhil Thomas,Consumer,South,Tamil Nadu,Chennai,Furniture,Desks,Desks Pro,1,6422.26,0.1,-513.98,Same Day,Cash
+ORD-0306,2026-04-15,Sneha Das,Home Office,South,Kerala,Kozhikode,Technology,Accessories,Accessories Basic,2,2850.35,0.0,514.85,Express,Cash
+ORD-0307,2026-01-31,Fahad Joseph,Consumer,South,Tamil Nadu,Chennai,Technology,Printers,Printers Premium,8,2339.9,0.2,314.49,Standard,UPI
+ORD-0308,2026-05-29,Vishnu Joseph,Corporate,West,Gujarat,Ahmedabad,Office Supplies,Binders,Binders Pro,1,3989.4,0.05,511.88,Standard,Bank Transfer
+ORD-0309,2026-04-05,Vishnu Varma,Corporate,West,Maharashtra,Mumbai,Office Supplies,Binders,Binders Basic,5,3342.85,0.1,396.26,Same Day,Bank Transfer
+ORD-0310,2026-05-27,Nikhil Thomas,Corporate,South,Tamil Nadu,Chennai,Technology,Accessories,Accessories Basic,8,5319.3,0.0,245.08,Express,Cash
+ORD-0311,2026-01-30,Rahul Khan,Consumer,South,Karnataka,Bengaluru,Technology,Monitors,Monitors Premium,5,5322.87,0.2,894.87,Express,UPI
+ORD-0312,2026-03-31,Rahul Thomas,Consumer,South,Karnataka,Bengaluru,Furniture,Bookcases,Bookcases Basic,3,926.8,0.3,113.79,Same Day,Cash
+ORD-0313,2026-05-08,Nikhil Varma,Home Office,West,Maharashtra,Mumbai,Furniture,Chairs,Chairs Pro,7,526.43,0.05,56.97,Express,Bank Transfer
+ORD-0314,2026-01-04,Fahad Varma,Consumer,West,Maharashtra,Mumbai,Furniture,Desks,Desks Basic,8,836.03,0.05,123.54,Same Day,Bank Transfer
+ORD-0315,2026-05-31,Meera Kumar,Corporate,South,Kerala,Kozhikode,Technology,Monitors,Monitors Basic,8,760.32,0.05,157.42,Express,Bank Transfer
+ORD-0316,2026-07-13,Aarav Sharma,Consumer,South,Telangana,Hyderabad,Office Supplies,Storage,Storage Premium,6,2371.89,0.1,432.97,Standard,Bank Transfer
+ORD-0317,2026-01-17,Kavya Varma,Home Office,West,Gujarat,Ahmedabad,Furniture,Chairs,Chairs Premium,4,1316.34,0.2,-157.51,Standard,Cash
+ORD-0318,2026-05-17,Fahad Khan,Home Office,South,Karnataka,Bengaluru,Technology,Laptops,Laptops Premium,7,1252.28,0.15,-116.83,Standard,Card
+ORD-0319,2026-03-22,Sneha Nair,Consumer,South,Kerala,Kozhikode,Office Supplies,Stationery,Stationery Premium,8,730.14,0.05,149.01,Standard,Card
+ORD-0320,2026-08-07,Amal Thomas,Consumer,South,Karnataka,Bengaluru,Technology,Monitors,Monitors Pro,5,1436.11,0.15,-165.74,Standard,Bank Transfer
+ORD-0321,2026-08-05,Amal Menon,Consumer,South,Telangana,Hyderabad,Furniture,Bookcases,Bookcases Premium,8,537.54,0.2,75.54,Standard,UPI
+ORD-0322,2026-01-04,Rohan Khan,Corporate,South,Kerala,Kochi,Technology,Laptops,Laptops Pro,6,543.74,0.0,-5.52,Express,Cash
+ORD-0323,2026-01-08,Vishnu Varma,Corporate,South,Tamil Nadu,Chennai,Furniture,Bookcases,Bookcases Premium,5,502.62,0.15,12.85,Standard,Card
+ORD-0324,2026-02-03,Vishnu Pillai,Home Office,South,Kerala,Kozhikode,Technology,Printers,Printers Premium,2,4379.37,0.15,609.83,Express,Card
+ORD-0325,2026-04-10,Ishaan Thomas,Consumer,North,Delhi,New Delhi,Office Supplies,Paper,Paper Premium,7,"₹3,891.30",0.15,-273.52,Same Day,Bank Transfer
+ORD-0326,2026-05-04,Kavya Joseph,Consumer,North,Delhi,New Delhi,Office Supplies,Storage,Storage Basic,5,199.63,0.3,2.86,Express,UPI
+ORD-0327,2026-07-15,Nikhil Menon,Corporate,South,Telangana,Hyderabad,Technology,Accessories,Accessories Premium,7,455.76,0.05,50.39,Standard,Bank Transfer
+ORD-0328,2026-02-13,Nikhil Varma,Consumer,West,Gujarat,Ahmedabad,Office Supplies,Binders,Binders Basic,3,2461.5,0.05,-221.96,Standard,Bank Transfer
+ORD-0329,2026-01-14,Rohan Kumar,Corporate,South,Tamil Nadu,Chennai,Technology,Laptops,Laptops Pro,7,1150.14,0.0,113.11,Same Day,UPI
+ORD-0330,2026-06-27,Ishaan Khan,Consumer,South,Telangana,Hyderabad,Technology,Laptops,Laptops Basic,7,998.34,0.3,111.06,Same Day,Cash
+ORD-0331,2026-05-09,Aisha Thomas,Consumer,South,Karnataka, Bengaluru ,Furniture,Chairs,Chairs Basic,2,2544.06,0.2,-374.68,Express,UPI
+ORD-0332,2026-01-16,Aisha Das,Home Office,West,Gujarat,Kozikode,Technology,Printers,Printers Pro,1,2989.36,0.0,587.83,Express,UPI
+ORD-0333,2026-04-30,Vishnu Menon,Home Office,North,Delhi,New Delhi,Office Supplies,Binders,Binders Pro,1,104.92,0.15,1.98,Express,Card
+ORD-0334,2026-05-02,Nikhil Pillai,Consumer,North,Delhi,New Delhi,Furniture,Bookcases,Bookcases Premium,2,514.99,0.0,103.35,Standard,Cash
+ORD-0335,2026-06-05,Riya Pillai,Corporate,West,Maharashtra,Mumbai,Furniture,Chairs,Chairs Basic,4,1054.01,0.05,243.29,Same Day,Bank Transfer
+ORD-0336,2026-07-08,Nikhil Menon,Home Office,West,Maharashtra,Mumbai,Technology,Monitors,Monitors Premium,5,523.66,0.15,14.36,Standard,Card
+ORD-0337,2026-04-27,Diya Nair,Consumer,West,Gujarat,Ahmedabad,Technology,Laptops,Laptops Premium,2,1581.08,0.1,305.99,Standard,Cash
+ORD-0338,2026-08-03,Kavya Nair,Consumer,North,Delhi,New Delhi,Technology,Accessories,Accessories Basic,1,106.28,0.1,25.83,Same Day,UPI
+ORD-0339,2026-06-15,Riya Thomas,Consumer,South,Karnataka,Bengaluru,Technology,Monitors,Monitors Basic,8,1572.29,0.15,-187.78,Same Day,Cash
+ORD-0340,2026-06-09,Rohan Das,Consumer,North,Delhi,New Delhi,Technology,Monitors,Monitors Premium,4,3751.65,0.0,-271.0,Same Day,Bank Transfer
+ORD-0341,2026-07-12,Arjun Pillai,Corporate,West,Gujarat,Ahmedabad,Office Supplies,Stationery,Stationery Premium,8,222.07,0.15,-27.22,Same Day,UPI
+ORD-0342,2026-04-26,Aarav Joseph,Corporate,South,Telangana,Hyderabad,Office Supplies,Paper,Paper Basic,6,191.16,0.1,7.74,Same Day,Cash
+ORD-0343,2026-05-21,Rahul Varma,Consumer,South,Kerala,Kochi,Furniture,Desks,Desks Basic,3,1643.5,0.1,-149.37,Standard,UPI
+ORD-0344,2026-06-13,Riya Varma,Consumer,South,Kerala,Thrissur,Technology,Accessories,Accessories Pro,7,254.98,0.15,2.19,Standard,UPI
+ORD-0345,2026-01-17,Rahul Menon,Corporate,South,Tamil Nadu,Chennai,Furniture,Chairs,Chairs Premium,3,354.71,0.1,40.9,Express,Cash
+ORD-0346,2026-03-17,Ishaan Khan,Home Office,South,Telangana,Hyderabad,Technology,Printers,Printers Pro,8,1741.43,0.3,211.87,Express,Bank Transfer
+ORD-0347,2026-02-23,Vishnu Nair,Corporate,West,Maharashtra,Mumbai,Furniture,Tables,Tables Premium,2,4341.82,0.0,794.05,Same Day,Card
+ORD-0348,2026-01-27,Sneha Joseph,Corporate,South,Telangana,Hyderabad,Furniture,Desks,Desks Premium,7,4949.42,0.2,658.57,Standard,Cash
+ORD-0349,2026-01-09,Ishaan Pillai,Home Office,South,Kerala,Thrissur,technology,Printers,Printers Premium,5,139.09,0.1,27.52,Express,Cash
+ORD-0350,2026-03-07,Meera Sharma,Consumer,South,Tamil Nadu,Chennai,Technology,Printers,Printers Basic,1,3816.43,0.0,1050.19,Same Day,UPI
+ORD-0351,2026-08-28,Vishnu Varma,Home Office,South,Kerala,Thrissur,Furniture,Tables,Tables Pro,4,1226.54,0.3,44.84,Express,Card
+ORD-0352,2026-08-01,Fahad Khan,Corporate,South,Kerala,KOCHI,Technology,Monitors,Monitors Premium,5,1995.87,0.0,189.77,Express,Cash
+ORD-0353,2026-02-25,Nikhil Khan,Corporate,South,Kerala,Kochi,Office Supplies,Stationery,Stationery Pro,3,3332.44,0.2,244.11,Same Day,UPI
+ORD-0354,2026-08-18,Arjun Nair,Consumer,South,Tamil Nadu,Chennai,Furniture,Bookcases,Bookcases Basic,4,2126.88,0.0,218.95,Standard,Card
+ORD-0355,2026-06-10,Fahad Nair,Home Office,South,Tamil Nadu,Chennai,Furniture,Chairs,Chairs Pro,5,868.82,0.05,127.88,Express,Bank Transfer
+ORD-0356,2026-05-03,Riya Thomas,Corporate,South,Kerala,Kochi,Office Supplies,Binders,Binders Pro,7,554.71,0.15,41.2,Same Day,Card
+ORD-0357,2026-08-13,Rohan Kumar,Home Office,South,Tamil Nadu,Chennai,Office Supplies,Binders,Binders Premium,7,4377.41,0.05,-277.81,Standard,Cash
+ORD-0358,2026-05-29,Fahad Khan,Corporate,South,Kerala,KOZHIKODE,Furniture,Bookcases,Bookcases Basic,8,346.82,0.0,7.73,Same Day,UPI
+ORD-0359,2026-03-01,Ananya Sharma,Consumer,South,Kerala,Kochi,Furniture,Chairs,Chairs Basic,6,4416.98,0.2,-551.45,Same Day,UPI
+ORD-0360,2026-08-04,Aisha Menon,Home Office,South,Tamil Nadu,Chennai,Furniture,Desks,Desks Premium,6,77.45,0.2,11.07,Same Day,Bank Transfer
+ORD-0361,2026-06-15,Riya Das,Home Office,South,Kerala,Kozhikode,Furniture,Tables,Tables Pro,4,1542.08,0.2,44.5,Same Day,Cash
+ORD-0362,2026-01-13,Kavya Khan,Corporate,West,Maharashtra,Mumbai,Office Supplies,Stationery,Stationery Pro,7,1594.03,0.15,-33.24,Same Day,UPI
+ORD-0363,2026-08-08,Nikhil Khan,Home Office,West,Maharashtra,Mumbai,Technology,Printers,Printers Pro,4,1343.08,0.05,-77.81,Standard,UPI
+ORD-0364,2026-10-06,Diya Pillai,Consumer,South,Kerala,Kozhikode,Furniture,Bookcases,Bookcases Pro,7,178.74,0.0,42.18,Same Day,Card
+ORD-0365,2026-03-15,Ananya Nair,Corporate,South,Karnataka,Bengaluru,Furniture,Bookcases,Bookcases Premium,5,2617.45,0.0,-27.75,Standard,Cash
+ORD-0366,2026-03-03,Sneha Thomas,Consumer,South,Kerala,Kozhikode,Technology,Laptops,Laptops Premium,6,2345.1,0.2,339.77,Standard,UPI
+ORD-0367,2026-06-25,Sneha Khan,Corporate,West,Maharashtra,Mumbai,Furniture,Tables,Tables Pro,7,1800.76,0.1,434.47,Standard,UPI
+ORD-0368,2026-03-30,Sneha Khan,Corporate,West,Maharashtra,Mumbai,Office Supplies,Binders,Binders Pro,3,608.88,0.3,63.86,Same Day,UPI
+ORD-0369,2026-08-02,Arjun Das,Consumer,South,Karnataka,Bengaluru,Technology,Printers,Printers Pro,3,727.85,0.0,9.62,Express,Card
+ORD-0370,2026-07-02,Riya Khan,Corporate,North,Delhi,New Delhi,Furniture,Desks,Desks Pro,7,4238.16,0.2,54.74,Standard,Bank Transfer
+ORD-0371,2026-04-18,Aisha Sharma,Corporate,South,Karnataka,Bengaluru,Furniture,Chairs,Chairs Basic,1,1290.95,0.15,-8.37,Standard,UPI
+ORD-0372,2026-06-12,Meera Thomas,Home Office,South,Tamil Nadu,Chennai,Furniture,Tables,Tables Pro,5,2207.65,0.3,-178.59,Standard,Bank Transfer
+ORD-0373,2026-06-12,Ishaan Varma,Home Office,South,Tamil Nadu,Chennai,Technology,Monitors,Monitors Premium,6,3085.55,0.1,216.0,Standard,UPI
+ORD-0374,2026-06-08,Aarav Khan,Corporate,South,Kerala,Thrissur,Technology,Laptops,Laptops Basic,7,552.39,0.3,40.64,Express,Bank Transfer
+ORD-0375,2026-06-15,Ananya Varma,Consumer,South,Kerala,Kozhikode,Technology,Monitors,Monitors Pro,1,5670.15,0.3,-827.96,Standard,Card
+ORD-0376,2026-02-28,Kavya Nair,Consumer,South,Kerala,Kochi,Furniture,Chairs,Chairs Premium,5,2699.16,0.0,385.84,Express,UPI
+ORD-0377,2026-05-04,,Corporate,South,Karnataka,Bengaluru,Office Supplies,Storage,Storage Premium,2,256.6,0.15,42.28,Same Day,Bank Transfer
+ORD-0378,2026-05-29,Sneha Sharma,Corporate,South,Kerala,Kozhikode,Furniture,Chairs,Chairs Basic,1,2195.57,0.1,504.04,Same Day,Card
+ORD-0379,2026-03-20,Meera Thomas,Home Office,South,Telangana,Hyderabad,Technology,Accessories,Accessories Basic,4,420.79,0.05,19.91,Same Day,UPI
+ORD-0380,2026-05-17,Diya Thomas,Consumer,West,Gujarat,Ahmedabad,Office Supplies,Storage,Storage Pro,7,1958.43,0.05,76.18,Standard,UPI
+ORD-0381,2026-05-04,Aarav Sharma,Home Office,South,Kerala,Kozhikode,Furniture,Bookcases,Bookcases Premium,2,6053.42,0.05,449.18,Express,UPI
+ORD-0382,2026-05-31,Vishnu Joseph,Corporate,West,Gujarat,Ahmedabad,Technology,Accessories,Accessories Basic,8,1791.04,0.15,-5.08,Standard,Cash
+ORD-0383,2026-05-18,Aarav Joseph,Consumer,South,Tamil Nadu,Chennai,Furniture,Chairs,Chairs Pro,3,3400.51,0.2,314.66,Standard,Cash
+ORD-0384,2026-06-27,Riya Sharma,Consumer,South,Kerala,Thrissur,Furniture,Bookcases,Bookcases Pro,2,3101.72,0.15,285.29,Standard,Cash
+ORD-0385,2026-02-07,Sneha Nair,Home Office,South,Kerala,Thrissur,Furniture,Desks,Desks Basic,6,1107.56,0.3,-98.99,Same Day,Bank Transfer
+ORD-0386,2026-03-02,Kavya Das,Home Office,South,Telangana,Hyderabad,Technology,Printers,Printers Premium,4,1553.82,0.15,-61.37,Express,Bank Transfer
+ORD-0387,2026-03-10,Ananya Varma,Consumer,South,Kerala,Thrissur,Technology,Laptops,Laptops Premium,7,4098.88,0.05,764.35,Same Day,Bank Transfer
+ORD-0388,2026-08-23,Aisha Varma,Consumer,South,Karnataka,Bengaluru,Office Supplies,Stationery,Stationery Premium,1,169.8,0.0,18.16,Standard,Card
+ORD-0389,2026-01-31,Rahul Pillai,Corporate,West,Gujarat,Ahmedabad,Office Supplies,Binders,Binders Premium,7,581.65,0.05,-17.86,Express,Card
+ORD-0390,2026-03-27,Riya Sharma,Corporate,South,Kerala,KOCHI,Furniture,Desks,Desks Premium,6,885.45,0.2,106.61,Standard,Card
+ORD-0391,2026-02-11,Aarav Sharma,Home Office,South,Tamil Nadu,Chennai,Office Supplies,Storage,Storage Pro,3,2977.36,0.2,-425.05,Standard,UPI
+ORD-0392,2026-02-26,Ananya Nair,Consumer,South,Karnataka,Bengaluru,Office Supplies,Binders,Binders Basic,6,2095.05,0.15,150.82,Express,Cash
+ORD-0393,2026-08-23,Nikhil Nair,Corporate,South,Telangana,Hyderabad,Furniture,Desks,Desks Pro,3,1997.72,0.2,377.21,Standard,Card
+ORD-0394,2026-02-28,Aarav Nair,Home Office,South,Kerala,Kozhikode,Office Supplies,Binders,Binders Premium,4,788.03,0.2,159.04,Standard,Cash
+ORD-0395,2026-02-25,Ishaan Khan,Consumer,South,Kerala,Kozhikode,Office Supplies,Binders,Binders Premium,6,211.07,0.0,46.13,Same Day,Bank Transfer
+ORD-0396,2026-05-11,Amal Pillai,Corporate,North,Delhi,New Delhi,Technology,Monitors,Monitors Premium,6,4235.37,0.15,-389.77,Same Day,Card
+ORD-0397,2026-03-23,Ananya Sharma,Corporate,South,Tamil Nadu,Chennai,Furniture,Bookcases,Bookcases Basic,6,605.15,0.05,128.29,Express,UPI
+ORD-0398,2026-04-01,Ishaan Nair,Consumer,North,Delhi,New Delhi,Office Supplies,Paper,Paper Premium,7,4376.23,0.2,657.89,Same Day,UPI
+ORD-0399,2026-07-10,Rahul Kumar,Consumer,South,Telangana,Hyderabad,Office Supplies,Binders,Binders Basic,6,2441.72,0.0,-66.51,Standard,UPI
+ORD-0400,2026-01-22,Rahul Khan,Home Office,South,Kerala,Thrissur,Office Supplies,Paper,Paper Premium,3,3990.23,0.05,764.75,Same Day,Card
+ORD-0401,2026-08-21,Ananya Kumar,Corporate,North,Delhi,New Delhi,Technology,Printers,Printers Basic,2,2658.63,0.1,-139.2,Express,Card
+ORD-0402,2026-03-29,Amal Khan,Corporate,South,Karnataka,Bengaluru,Furniture,Chairs,Chairs Pro,7,3241.68,0.05,17.06,Express,Bank Transfer
+ORD-0403,2026-05-15,Nikhil Das,Consumer,South,Tamil Nadu,Chennai,Technology,Accessories,Accessories Basic,7,1873.72,0.0,398.38,Express,UPI
+ORD-0404,2026-08-04,Ananya Menon,Consumer,South,Kerala,Kochi,Technology,Accessories,Accessories Premium,5,2074.29,0.1,325.93,Standard,Cash
+ORD-0405,2026-04-20,Diya Sharma,Consumer,South,Kerala,Thrissur,Technology,Printers,Printers Pro,8,3106.15,0.3,8.85,Standard,UPI
+ORD-0406,2026-06-28,Ishaan Sharma,Home Office,South,Kerala,Thrissur,Furniture,Chairs,Chairs Pro,4,426.71,0.15,-15.37,,Bank Transfer
+ORD-0407,2026-04-16,Aarav Menon,Consumer,South,Tamil Nadu,Chennai,Technology,Printers,Printers Premium,7,2370.98,0.3,379.73,Express,UPI
+ORD-0408,2026-03-16,Ananya Pillai,Home Office,South,Kerala,Kozhikode,Furniture,Desks,Desks Basic,8,3171.58,0.15,-19.03,Same Day,Cash
+ORD-0409,2026-01-23,Ananya Thomas,Corporate,West,Maharashtra,Mumbai,Technology,Monitors,Monitors Pro,6,252.09,0.2,-27.74,Express,Bank Transfer
+ORD-0410,2026-02-07,Amal Thomas,Consumer,South,Kerala,Kozhikode,Office Supplies,Storage,Storage Pro,5,781.89,0.0,202.43,Express,Card
+ORD-0411,2026-06-08,Arjun Menon,Corporate,West,Gujarat,Ahmedabad,Office Supplies,Binders,Binders Basic,2,670.87,0.3,78.78,Express,UPI
+ORD-0412,2026-04-15,Rahul Kumar,Corporate,South,Karnataka,Bengaluru,Office Supplies,Paper,Paper Pro,1,2864.35,0.2,182.84,Express,Card
+ORD-0413,2026-02-18,Meera Nair,Corporate,South,Karnataka,Bengaluru,Technology,Laptops,Laptops Pro,7,2058.66,0.0,167.75,Standard,UPI
+ORD-0414,2026-03-20,Kavya Kumar,Corporate,North,Delhi,New Delhi,Office Supplies,Stationery,Stationery Basic,1,2553.49,0.0,402.96,Express,UPI
+ORD-0415,2026-08-03,Riya Pillai,Home Office,West,Gujarat,Ahmedabad,Furniture,Bookcases,Bookcases Premium,1,1547.82,0.15,263.11,Express,Card
+ORD-0416,2026-01-07,Diya Das,Home Office,South,Tamil Nadu,Chennai,Furniture,Bookcases,Bookcases Pro,1,550.88,0.2,-38.44,Standard,Bank Transfer
+ORD-0417,2026-07-06,Vishnu Sharma,Corporate,South,Kerala,Thrissur,Furniture,Bookcases,Bookcases Premium,6,1890.24,0.15,325.95,Express,Cash
+ORD-0418,2026-02-21,Vishnu Menon,Corporate,South,Kerala,Kozhikode,Furniture,Bookcases,Bookcases Premium,5,5286.62,0.2,375.62,Same Day,Cash
+ORD-0419,2026-05-16,Meera Menon,Consumer,South,Tamil Nadu,Chennai,Technology,Monitors,Monitors Pro,2,748.67,0.05,-22.89,Same Day,Bank Transfer
+ORD-0420,2026-07-22,Vishnu Kumar,Home Office,West,Maharashtra,Mumbai,Office Supplies,Binders,Binders Pro,3,1902.6,0.0,452.12,Standard,UPI
+ORD-0421,2026-04-26,Meera Khan,Corporate,South,Kerala,Kozhikode,Office Supplies,Paper,Paper Pro,2,1186.24,0.05,-109.03,Express,Bank Transfer
+ORD-0422,2026-07-27,Aarav Menon,Consumer,West,Gujarat,Ahmedabad,Technology,Printers,Printers Basic,8,4223.94,0.05,879.47,Same Day,Cash
+ORD-0423,2026-07-31,Aisha Sharma,Corporate,North,Delhi,New Delhi,Technology,Laptops,Laptops Premium,5,4514.82,0.2,-372.39,Standard,Bank Transfer
+ORD-0424,2026-07-05,Vishnu Nair,Home Office,West,Maharashtra,MUMBAI,Office Supplies,Binders,Binders Basic,4,603.09,0.15,98.94,Express,UPI
+ORD-0425,2026-01-04,Fahad Thomas,Consumer,South,Telangana,Hyderabad,Furniture,Tables,Tables Premium,8,721.53,0.3,5.76,Standard,Cash
+ORD-0426,2026-02-23,Ishaan Khan,Consumer,West,Gujarat,Ahmedabad,Furniture,Tables,Tables Basic,8,1966.33,0.1,319.64,Express,Cash
+ORD-0427,2026-02-04,Riya Nair,Home Office,North,Delhi,New Delhi,Technology,Monitors,Monitors Premium,6,951.05,0.05,26.59,Same Day,Cash
+ORD-0428,2026-01-19,Arjun Das,Home Office,West,Maharashtra,Mumbai,Furniture,Bookcases,Bookcases Pro,5,831.1,0.05,148.38,Standard,Cash
+ORD-0429,2026-08-07,Rohan Sharma,Corporate,South,Kerala,Thrissur,Office Supplies,Storage,Storage Basic,1,5343.69,0.05,723.92,Same Day,Card
+ORD-0430,2026-04-01,Rahul Joseph,Home Office,West,Gujarat,Ahmedabad,Technology,Laptops,Laptops Premium,5,1369.51,0.1,228.25,Same Day,Bank Transfer
+ORD-0431,2026-01-08,Rahul Khan,Home Office,South,Karnataka,Bengaluru,Office Supplies,Binders,Binders Basic,1,3718.87,0.05,149.05,Same Day,Bank Transfer
+ORD-0432,2026-03-13,Aarav Sharma,Home Office,South,Tamil Nadu, Chennai ,Furniture,Desks,Desks Pro,4,2951.17,0.05,258.83,Same Day,Card
+ORD-0433,2026-04-09,Ishaan Das,Corporate,West,Maharashtra,Mumbai,Office Supplies,Paper,Paper Basic,6,166.01,0.1,26.28,Express,Cash
+ORD-0434,2026-02-22,Arjun Varma,Corporate,West,Maharashtra,Mumbai,Furniture,Bookcases,Bookcases Basic,2,249.97,0.3,-16.21,Same Day,Card
+ORD-0435,2026-05-09,Arjun Varma,Home Office,South,Kerala,Kochi,Technology,Monitors,Monitors Basic,2,2111.02,0.2,120.16,Same Day,Bank Transfer
+ORD-0436,2026-04-19,Rahul Joseph,Corporate,South,Kerala,Kochi,Furniture,Desks,Desks Basic,4,2145.8,0.15,140.0,Standard,Cash
+ORD-0437,2026-02-17,Kavya Menon,Consumer,West,Maharashtra,Mumbai,Technology,Accessories,Accessories Premium,4,"₹1,863.69",0.0,168.34,Same Day,
+ORD-0438,2026-05-24,Aarav Pillai,Consumer,South,Karnataka,Bengaluru,Furniture,Tables,Tables Pro,4,509.48,0.2,-65.27,Same Day,UPI
+ORD-0439,2026-03-28,Arjun Das,Consumer,South,Kerala,Thrissur,Office Supplies,Binders,Binders Basic,3,3781.67,0.05,-163.84,Standard,Cash
+ORD-0440,2026-07-31,Kavya Thomas,Consumer,South,Karnataka,Bengaluru,Furniture,Tables,Tables Premium,5,1339.8,0.2,-160.04,Same Day,UPI
+ORD-0441,2026-04-16,Aarav Thomas,Consumer,South,Karnataka,Bengaluru,Technology,Accessories,Accessories Pro,7,753.84,0.15,145.68,Same Day,Bank Transfer
+ORD-0442,2026-05-21,Arjun Das,Consumer,North,Delhi,New Delhi,Furniture,Desks,Desks Premium,8,796.21,0.15,-67.68,Same Day,Card
+ORD-0443,2026-05-14,Rohan Sharma,Consumer,West,Maharashtra,Kozikode,Technology,Laptops,Laptops Premium,5,3706.62,0.1,854.61,Standard,Bank Transfer
+ORD-0444,2026-01-15,Aisha Nair,Consumer,South,Karnataka,Bengaluru,Office Supplies,Binders,Binders Pro,6,2495.94,0.1,310.19,Standard,Cash
+ORD-0445,2026-04-04,Sneha Joseph,Home Office,South,Tamil Nadu, Chennai ,Technology,Monitors,Monitors Premium,5,2356.05,0.2,175.78,Express,Cash
+ORD-0446,2026-07-11,Amal Das,Consumer,West,Maharashtra,Mumbai,Office Supplies,Binders,Binders Pro,3,3119.29,0.1,739.43,Express,Cash
+ORD-0447,2026-01-23,Rohan Menon,Consumer,West,Maharashtra,Mumbai,Technology,Laptops,Laptops Pro,7,6484.25,0.2,1273.14,Standard,Bank Transfer
+ORD-0448,2026-08-02,Arjun Menon,Corporate,South,Kerala,Kochi,Furniture,Tables,Tables Premium,6,1014.07,0.2,-26.19,Standard,UPI
+ORD-0449,2026-02-08,Aarav Khan,Corporate,West,Gujarat,Ahmedabad,Office Supplies,Paper,Paper Pro,8,924.6,0.2,-103.28,Express,Bank Transfer
+ORD-0450,2026-08-18,Arjun Nair,Consumer,South,Telangana,Hyderabad,Office Supplies,Paper,Paper Basic,6,201.44,0.1,-0.65,Express,Cash
+ORD-0451,2026-06-23,Arjun Menon,Consumer,South,Karnataka,Bengaluru,Technology,Accessories,Accessories Basic,2,2874.33,0.05,399.36,Standard,UPI
+ORD-0452,2026-03-31,Riya Pillai,Home Office,South,Kerala,Kozhikode,Office Supplies,Paper,Paper Premium,1,915.78,0.0,119.71,Standard,Cash
+ORD-0453,2026-02-10,Arjun Thomas,Home Office,South,Karnataka,Bengaluru,Office Supplies,Binders,Binders Pro,8,2335.99,0.2,349.13,Standard,UPI
+ORD-0454,2026-02-19,Kavya Thomas,Corporate,South,Kerala,Kochi,Office Supplies,Stationery,Stationery Basic,3,2534.6,0.0,-92.37,Express,UPI
+ORD-0455,2026-01-25,Amal Kumar,Corporate,West,Maharashtra,Mumbai,Office Supplies,Binders,Binders Pro,4,1931.23,0.15,311.91,Express,Cash
+ORD-0456,2026-07-01,Diya Nair,Consumer,West,Gujarat,Ahmedabad,Technology,Laptops,Laptops Pro,4,4183.96,0.15,895.08,Standard,UPI
+ORD-0457,2026-05-15,Diya Nair,Home Office,North,Delhi,New Delhi,Technology,Accessories,Accessories Pro,7,3245.24,0.3,-482.38,Standard,UPI
+ORD-0458,2026-01-31,Ishaan Nair,Home Office,West,Maharashtra,New delhi,Furniture,Bookcases,Bookcases Premium,3,535.31,0.1,82.31,Express,UPI
+ORD-0459,2026-01-19,Ishaan Das,Home Office,West,Gujarat,Ahmedabad,Technology,Accessories,Accessories Pro,6,1784.11,0.3,-291.49,Standard,UPI
+ORD-0460,2026-06-24,Aisha Pillai,Home Office,South,Tamil Nadu,Chennai,Office Supplies,Paper,Paper Basic,2,1125.31,0.15,25.36,Standard,Card
+ORD-0461,2026-01-23,Aarav Thomas,Corporate,South,Karnataka,Bengaluru,Technology,Printers,Printers Basic,2,2907.63,0.15,-59.73,Standard,Cash
+ORD-0462,2026-08-16,Diya Sharma,Consumer,North,Delhi,New Delhi,Furniture,Bookcases,Bookcases Premium,7,3865.26,0.2,694.46,Express,Card
+ORD-0463,2026-06-05,Kavya Pillai,Corporate,South,Kerala,Kochi,Furniture,Chairs,Chairs Premium,7,1485.69,0.05,358.42,Express,Card
+ORD-0464,2026-06-12,Rohan Das,Home Office,West,Gujarat,Ahmedabad,Technology,Printers,Printers Basic,1,508.29,0.3,-59.81,Same Day,Bank Transfer
+ORD-0465,2026-06-23,Sneha Varma,Home Office,South,Tamil Nadu,Chennai,Office Supplies,Stationery,Stationery Premium,7,1731.54,0.0,264.96,Standard,Bank Transfer
+ORD-0466,2026-06-18,Vishnu Sharma,Corporate,South,Karnataka,Bengaluru,Technology,Laptops,Laptops Premium,4,3103.15,0.05,786.39,Same Day,Bank Transfer
+ORD-0467,2026-06-10,Fahad Nair,Consumer,South,Karnataka,Bengaluru,Technology,Accessories,Accessories Basic,3,1608.82,0.0,365.84,Same Day,Bank Transfer
+ORD-0468,2026-02-18,Aarav Joseph,Corporate,West,Maharashtra,Mumbai,Technology,Monitors,Monitors Basic,6,2669.49,0.1,332.38,Express,UPI
+ORD-0469,2026-08-17,Fahad Joseph,Consumer,South,Telangana,Hyderabad,Technology,Accessories,Accessories Pro,1,830.91,0.05,-22.34,Standard,Cash
+ORD-0470,2026-03-16,Nikhil Varma,Home Office,South,Kerala,Kozhikode,Furniture,Tables,Tables Basic,7,306.87,0.0,28.49,Express,Cash
+ORD-0471,2026-05-17,Rohan Sharma,Consumer,West,Gujarat,Ahmedabad,Office Supplies,Storage,Storage Premium,6,5379.92,0.0,1274.94,Standard,UPI
+ORD-0472,2026-06-24,Aisha Thomas,Consumer,South,Tamil Nadu,Chennai,Furniture,Desks,Desks Basic,2,202.71,0.05,40.67,Same Day,Cash
+ORD-0473,2026-04-07,Vishnu Sharma,Corporate,West,Maharashtra,Mumbai,Furniture,Bookcases,Bookcases Pro,7,397.92,0.1,48.59,Same Day,Bank Transfer
+ORD-0474,2026-03-27,Vishnu Kumar,Corporate,North,Delhi,New Delhi,Furniture,Chairs,Chairs Basic,5,1714.81,0.1,-14.0,Express,Bank Transfer
+ORD-0475,2026-05-20,Ananya Kumar,Consumer,South,Kerala,Thrissur,Furniture,Chairs,Chairs Premium,5,3194.47,0.05,481.41,Standard,Card
+ORD-0476,2026-05-11,Aarav Thomas,Consumer,North,Delhi,NEW DELHI,Technology,Laptops,Laptops Pro,3,1709.92,0.0,48.83,Standard,Cash
+ORD-0477,2026-03-02,Sneha Das,Home Office,West,Gujarat,Ahmedabad,Furniture,Tables,Tables Premium,7,5958.38,0.1,1407.94,Standard,Bank Transfer
+ORD-0478,2026-05-26,Arjun Kumar,Consumer,West,Maharashtra,Mumbai,Furniture,Desks,Desks Pro,2,4231.55,0.0,-240.36,Express,UPI
+ORD-0479,2026-02-12,Amal Das,Corporate,West,Gujarat,Ahmedabad,Technology,Laptops,Laptops Premium,6,878.19,0.1,152.25,Express,UPI
+ORD-0480,2026-03-09,Aarav Khan,Corporate,South,Kerala,Thrissur,Technology,Accessories,Accessories Basic,8,1028.56,0.1,-36.54,Same Day,UPI
+ORD-0481,2026-02-10,Arjun Pillai,Home Office,West,Gujarat, Ahmedabad ,Office Supplies,Paper,Paper Basic,5,323.17,0.2,4.98,Standard,UPI
+ORD-0482,2026-08-21,Kavya Joseph,Home Office,West,Maharashtra,Mumbai,Technology,Accessories,Accessories Pro,8,719.52,0.0,42.2,Express,UPI
+ORD-0483,2026-05-02,Vishnu Das,Home Office,South,Kerala,Kochi,Office Supplies,Stationery,Stationery Basic,2,2157.8,0.1,518.15,Express,Card
+ORD-0484,2026-01-02,Amal Nair,Corporate,West,Maharashtra,Mumbai,Office Supplies,Binders,Binders Pro,1,2623.05,0.05,252.58,Same Day,Card
+ORD-0485,2026-04-14,Sneha Menon,Home Office,South,Kerala,Thrissur,Office supply,Chairs,Chairs Premium,3,4145.71,0.0,-85.72,Same Day,UPI
+ORD-0486,2026-01-28,Kavya Kumar,Home Office,South,Kerala,Kochi,Office Supplies,Stationery,Stationery Basic,5,1923.94,0.3,191.98,Express,Cash
+ORD-0487,2026-04-21,Kavya Nair,Consumer,South,Kerala,Kozhikode,Office Supplies,Storage,Storage Pro,3,1792.4,0.05,-76.8,Standard,Cash
+ORD-0488,2026-01-18,Rohan Joseph,Home Office,West,Maharashtra,Mumbai,Technology,Printers,Printers Premium,5,1302.74,0.05,172.77,Standard,Cash
+ORD-0489,2026-04-03,Nikhil Varma,Consumer,West,Maharashtra,Mumbai,Office Supplies,Paper,Paper Premium,3,3526.13,0.05,164.61,Express,Card
+ORD-0490,2026-04-09,Nikhil Pillai,Corporate,West,Gujarat,Ahmedabad,Furniture,Desks,Desks Basic,4,4368.77,0.3,94.13,Express,Bank Transfer
+ORD-0491,2026-02-22,Aarav Khan,Home Office,South,Karnataka,Bengaluru,Office Supplies,Stationery,Stationery Pro,5,1114.42,0.2,110.6,Standard,Card
+ORD-0492,2026-06-28,Meera Menon,Corporate,South,Telangana,Hyderabad,Office Supplies,Paper,Paper Basic,8,814.33,0.15,-59.27,Same Day,Cash
+ORD-0493,2026-06-17,Aarav Thomas,Home Office,South,Tamil Nadu,Chennai,Furniture,Bookcases,Bookcases Pro,4,665.01,0.15,-71.97,Standard,Bank Transfer
+ORD-0494,2026-03-21,Vishnu Das,Home Office,South,Telangana,Hyderabad,Office Supplies,Storage,Storage Premium,6,320.17,0.05,30.93,Express,Cash
+ORD-0495,2026-06-18,Nikhil Menon,Corporate,North,Delhi,New Delhi,Office Supplies,Binders,Binders Pro,8,1882.2,0.2,-179.32,Express,Card
+ORD-0496,2026-03-02,Diya Das,Home Office,South,Tamil Nadu,Chennai,Technology,Printers,Printers Basic,7,69.74,0.1,7.05,Express,Bank Transfer
+ORD-0497,2026-04-20,Fahad Joseph,Home Office,South,Kerala,Kozhikode,Technology,Monitors,Monitors Basic,4,1044.65,0.05,50.55,Express,Bank Transfer
+ORD-0498,2026-05-26,Amal Nair,Home Office,South,Kerala,Kochi,Furniture,Tables,Tables Basic,5,2573.3,0.15,467.53,Same Day,UPI
+ORD-0499,2026-02-16,Ishaan Nair,Corporate,South,Kerala,Thrissur,Office Supplies,Binders,Binders Basic,8,2581.28,0.05,-209.18,Same Day,UPI
+ORD-0500,2026-03-23,Vishnu Sharma,Consumer,South,Kerala,Kozhikode,Technology,Printers,Printers Basic,5,1619.75,0.0,62.47,Same Day,Bank Transfer
+ORD-0309,2026-04-05,Vishnu Varma,Corporate,West,Maharashtra,Mumbai,Office Supplies,Binders,Binders Basic,5,3342.85,0.1,396.26,Same Day,Bank Transfer
+ORD-0014,2026-02-20,Kavya Sharma,Home Office,North,Delhi,New Delhi,Furniture,Tables,Tables Premium,1,"₹1,234.16",0.2,-7.78,Express,UPI
+ORD-0415,2026-08-03,Riya Pillai,Home Office,West,Gujarat,Ahmedabad,Furniture,Bookcases,Bookcases Premium,1,1547.82,0.15,263.11,Express,Card
+ORD-0033,2026-07-06,Arjun Pillai,Corporate,South,Karnataka,Bengaluru,Technology,Laptops,Laptops Premium,5,7094.63,0.0,1664.63,Same Day,Card
+ORD-0461,2026-01-23,Aarav Thomas,Corporate,South,Karnataka,Bengaluru,Technology,Printers,Printers Basic,2,2907.63,0.15,-59.73,Standard,Cash
